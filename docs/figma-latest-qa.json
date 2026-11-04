@@ -1,0 +1,1116 @@
+{
+  "screenCount": 96,
+  "edgeCount": 489,
+  "invalidTargets": [],
+  "mainFlow": [
+    {
+      "from": "Splash",
+      "to": "Login",
+      "pass": true
+    },
+    {
+      "from": "Login",
+      "to": "Register",
+      "pass": true
+    },
+    {
+      "from": "Register",
+      "to": "RegisterFilled",
+      "pass": true
+    },
+    {
+      "from": "RegisterFilled",
+      "to": "LoginRegistered",
+      "pass": true
+    },
+    {
+      "from": "LoginRegistered",
+      "to": "Home",
+      "pass": true
+    },
+    {
+      "from": "Home",
+      "to": "List",
+      "pass": true
+    },
+    {
+      "from": "List",
+      "to": "Detail",
+      "pass": true
+    },
+    {
+      "from": "Detail",
+      "to": "Practice1",
+      "pass": true
+    },
+    {
+      "from": "Completed",
+      "to": "ProfileResult100",
+      "pass": true
+    }
+  ],
+  "quizCases": [
+    {
+      "mask": 0,
+      "correct": 0,
+      "result": "PracticeFailed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Wrong",
+        "Practice2Score0",
+        "Practice2Score0Wrong",
+        "Practice3Score0",
+        "Practice3Score0Wrong",
+        "Practice4Score0",
+        "Practice4Score0Wrong",
+        "PracticeFailed"
+      ]
+    },
+    {
+      "mask": 1,
+      "correct": 1,
+      "result": "PracticeFailed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Correct",
+        "Practice2Score1",
+        "Practice2Score1Wrong",
+        "Practice3Score1",
+        "Practice3Score1Wrong",
+        "Practice4Score1",
+        "Practice4Score1Wrong",
+        "PracticeFailed"
+      ]
+    },
+    {
+      "mask": 2,
+      "correct": 1,
+      "result": "PracticeFailed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Wrong",
+        "Practice2Score0",
+        "Practice2Score0Correct",
+        "Practice3Score1",
+        "Practice3Score1Wrong",
+        "Practice4Score1",
+        "Practice4Score1Wrong",
+        "PracticeFailed"
+      ]
+    },
+    {
+      "mask": 3,
+      "correct": 2,
+      "result": "PracticeFailed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Correct",
+        "Practice2Score1",
+        "Practice2Score1Correct",
+        "Practice3Score2",
+        "Practice3Score2Wrong",
+        "Practice4Score2",
+        "Practice4Score2Wrong",
+        "PracticeFailed"
+      ]
+    },
+    {
+      "mask": 4,
+      "correct": 1,
+      "result": "PracticeFailed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Wrong",
+        "Practice2Score0",
+        "Practice2Score0Wrong",
+        "Practice3Score0",
+        "Practice3Score0Correct",
+        "Practice4Score1",
+        "Practice4Score1Wrong",
+        "PracticeFailed"
+      ]
+    },
+    {
+      "mask": 5,
+      "correct": 2,
+      "result": "PracticeFailed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Correct",
+        "Practice2Score1",
+        "Practice2Score1Wrong",
+        "Practice3Score1",
+        "Practice3Score1Correct",
+        "Practice4Score2",
+        "Practice4Score2Wrong",
+        "PracticeFailed"
+      ]
+    },
+    {
+      "mask": 6,
+      "correct": 2,
+      "result": "PracticeFailed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Wrong",
+        "Practice2Score0",
+        "Practice2Score0Correct",
+        "Practice3Score1",
+        "Practice3Score1Correct",
+        "Practice4Score2",
+        "Practice4Score2Wrong",
+        "PracticeFailed"
+      ]
+    },
+    {
+      "mask": 7,
+      "correct": 3,
+      "result": "Completed75",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Correct",
+        "Practice2Score1",
+        "Practice2Score1Correct",
+        "Practice3Score2",
+        "Practice3Score2Correct",
+        "Practice4Score3",
+        "Practice4Score3Wrong",
+        "Completed75"
+      ]
+    },
+    {
+      "mask": 8,
+      "correct": 1,
+      "result": "PracticeFailed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Wrong",
+        "Practice2Score0",
+        "Practice2Score0Wrong",
+        "Practice3Score0",
+        "Practice3Score0Wrong",
+        "Practice4Score0",
+        "Practice4Score0Correct",
+        "PracticeFailed"
+      ]
+    },
+    {
+      "mask": 9,
+      "correct": 2,
+      "result": "PracticeFailed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Correct",
+        "Practice2Score1",
+        "Practice2Score1Wrong",
+        "Practice3Score1",
+        "Practice3Score1Wrong",
+        "Practice4Score1",
+        "Practice4Score1Correct",
+        "PracticeFailed"
+      ]
+    },
+    {
+      "mask": 10,
+      "correct": 2,
+      "result": "PracticeFailed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Wrong",
+        "Practice2Score0",
+        "Practice2Score0Correct",
+        "Practice3Score1",
+        "Practice3Score1Wrong",
+        "Practice4Score1",
+        "Practice4Score1Correct",
+        "PracticeFailed"
+      ]
+    },
+    {
+      "mask": 11,
+      "correct": 3,
+      "result": "Completed75",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Correct",
+        "Practice2Score1",
+        "Practice2Score1Correct",
+        "Practice3Score2",
+        "Practice3Score2Wrong",
+        "Practice4Score2",
+        "Practice4Score2Correct",
+        "Completed75"
+      ]
+    },
+    {
+      "mask": 12,
+      "correct": 2,
+      "result": "PracticeFailed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Wrong",
+        "Practice2Score0",
+        "Practice2Score0Wrong",
+        "Practice3Score0",
+        "Practice3Score0Correct",
+        "Practice4Score1",
+        "Practice4Score1Correct",
+        "PracticeFailed"
+      ]
+    },
+    {
+      "mask": 13,
+      "correct": 3,
+      "result": "Completed75",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Correct",
+        "Practice2Score1",
+        "Practice2Score1Wrong",
+        "Practice3Score1",
+        "Practice3Score1Correct",
+        "Practice4Score2",
+        "Practice4Score2Correct",
+        "Completed75"
+      ]
+    },
+    {
+      "mask": 14,
+      "correct": 3,
+      "result": "Completed75",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Wrong",
+        "Practice2Score0",
+        "Practice2Score0Correct",
+        "Practice3Score1",
+        "Practice3Score1Correct",
+        "Practice4Score2",
+        "Practice4Score2Correct",
+        "Completed75"
+      ]
+    },
+    {
+      "mask": 15,
+      "correct": 4,
+      "result": "Completed",
+      "pass": true,
+      "trace": [
+        "Practice1",
+        "Practice1Correct",
+        "Practice2Score1",
+        "Practice2Score1Correct",
+        "Practice3Score2",
+        "Practice3Score2Correct",
+        "Practice4Score3",
+        "Practice4Score3Correct",
+        "Completed"
+      ]
+    }
+  ],
+  "layout": [
+    {
+      "screen": "Splash",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Login",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "LoginError",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Register",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Onboarding1",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Onboarding2",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Onboarding3",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Home",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "List",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Detail",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "DetailSaved",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Completed",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Search",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "SearchA2",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "SearchEmpty",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Favorites",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "FavoritesEmpty",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Profile",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Settings",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Create",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Edit",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "LoginFilled",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "LoginWrongPassword",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "RegisterFilled",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "RegisterError",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "RegisterWeak",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "ListA1",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "ListA2",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "ListCreated",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Vocabulary",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Dialogue",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice1",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice1Correct",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice1Wrong",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice2Score0",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice2Score0Correct",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice2Score0Wrong",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice2Score1",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice2Score1Correct",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice2Score1Wrong",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice3Score0",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice3Score0Correct",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice3Score0Wrong",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice3Score1",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice3Score1Correct",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice3Score1Wrong",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice3Score2",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice3Score2Correct",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice3Score2Wrong",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score0",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score0Correct",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score0Wrong",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score1",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score1Correct",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score1Wrong",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score2",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score2Correct",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score2Wrong",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score3",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score3Correct",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Practice4Score3Wrong",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Completed75",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "PracticeFailed",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "SettingsEdited",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "CreateFilled",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "CreatedDetail",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "LoginRegistered",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Detail7",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Vocabulary7",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Dialogue7",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Detail2",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Vocabulary2",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Dialogue2",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Detail3",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Vocabulary3",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Dialogue3",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Detail4",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Vocabulary4",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Dialogue4",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Detail5",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Vocabulary5",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Dialogue5",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Detail6",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Vocabulary6",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Dialogue6",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Detail8",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Vocabulary8",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Dialogue8",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Detail9",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Vocabulary9",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Dialogue9",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Detail10",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Vocabulary10",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "Dialogue10",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "ProfileResult100",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    },
+    {
+      "screen": "ProfileResult75",
+      "width": 390,
+      "height": 844,
+      "scroll": "VERTICAL",
+      "contentWidth": 390,
+      "horizontalOverflow": []
+    }
+  ],
+  "flowStartingPoints": [
+    {
+      "nodeId": "5:909",
+      "name": "01 · Жаңа пайдаланушы"
+    },
+    {
+      "nodeId": "22:2231",
+      "name": "02 · Кіру → сабақ → нәтиже → профиль"
+    },
+    {
+      "nodeId": "5:981",
+      "name": "03 · Тіркелу және қателер"
+    },
+    {
+      "nodeId": "5:1013",
+      "name": "04 · Таныстыру"
+    }
+  ],
+  "editableTextCount": 1513,
+  "instanceCount": 385
+}

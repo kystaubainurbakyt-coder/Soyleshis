@@ -1,0 +1,599 @@
+A1|7|Әліпби және дыбыстар|Алфавит и звуки|Alphabet and sounds|В казахском алфавите есть особые буквы: ә, ғ, қ, ң, ө, ұ, ү, һ, і. Буквы қ и к обозначают разные звуки; ұ и ү тоже нельзя заменять друг другом. Сравнивайте написание и произношение, проговаривая слова медленно.|Kazakh has distinctive letters: ә, ғ, қ, ң, ө, ұ, ү, һ, і. The letters қ and к represent different sounds, as do ұ and ү. Read slowly and pay attention to the spelling rather than replacing unfamiliar letters with familiar ones.
+Бұл қандай әріп?~Что это за буква?~What letter is this?
+Бұл — «ә» әрпі.~Это буква «ә».~This is the letter ә.
+Мына сөз қалай оқылады?~Как читается это слово?~How do you read this word?
+«Әлем» деп оқылады.~Оно читается «әлем».~It is read as “әлем”.
+Бұл сөз дүниені білдіреді.~Это слово обозначает мир.~This word means the world.
+Қазақ тілінде тоғыз ерекше әріп бар.~В казахском языке девять особых букв.~Kazakh has nine distinctive letters.
+
+A1|1|Сәлемдесу|Приветствие и прощание|Greetings and goodbyes|«Сәлем!» подходит для друзей, а «Сәлеметсіз бе?» — для вежливого обращения. В вопросе «Қалыңыз қалай?» окончание -ыңыз выражает уважение. Частица бе в приветствии пишется отдельно. Потренируйте оба регистра, не смешивая «сен» и «сіз».|Use “Сәлем!” with friends and “Сәлеметсіз бе?” in polite situations. In “Қалыңыз қалай?”, the ending -ыңыз marks respectful address. The question particle бе is written separately. Practise both registers without mixing informal сен and polite сіз.
+Сәлеметсіз бе! Қалыңыз қалай?~Здравствуйте! Как ваши дела?~Hello! How are you?
+Жақсы, рақмет. Өзіңіз қалайсыз?~Хорошо, спасибо. А вы как?~I’m well, thank you. How about you?
+Мен де жақсымын.~У меня тоже всё хорошо.~I’m well too.
+Көріскенше!~До встречи!~See you!
+Қайырлы таң!~Доброе утро!~Good morning!
+Сау болыңыз!~До свидания!~Goodbye!
+
+A1|2|Танысу|Знакомство|Introducing yourself|Чтобы представиться, используйте «Менің атым ...». Вежливый вопрос — «Сіздің атыңыз кім?». В конструкции «Мен ...-дан/-ден келдім» окончание показывает место отправления; выбор варианта зависит от звуков слова. Пока запомните готовые формы Астанадан и Алматыдан.|Introduce yourself with “Менің атым ...”. The polite question is “Сіздің атыңыз кім?”. In “Мен ...-дан/-ден келдім”, the ending marks where you came from. Its form depends on the sounds in the word. Start by learning the complete forms Астанадан and Алматыдан.
+Сіздің атыңыз кім?~Как вас зовут?~What is your name?
+Менің атым Айдана.~Меня зовут Айдана.~My name is Aidana.
+Сіз қайдан келдіңіз?~Откуда вы приехали?~Where did you come from?
+Мен Астанадан келдім.~Я приехала из Астаны.~I came from Astana.
+Танысқаныма қуаныштымын.~Приятно познакомиться.~It’s nice to meet you.
+Мен қазақ тілін үйреніп жүрмін.~Я изучаю казахский язык.~I’m learning Kazakh.
+
+A1|3|Сандар|Числа и количество|Numbers and quantities|В составных числах сначала называют десятки, затем единицы: жиырма бес — двадцать пять. После числительного существительное обычно остаётся в единственном числе: екі кітап. Сравните «қанша?» для количества и «неше?» для счёта предметов.|Compound numbers place tens before units: жиырма бес means twenty-five. A noun normally stays singular after a numeral: екі кітап means two books. Learn қанша? for quantity and неше? when counting individual items.
+Сізге неше билет керек?~Сколько билетов вам нужно?~How many tickets do you need?
+Маған екі билет керек.~Мне нужны два билета.~I need two tickets.
+Бір билет қанша тұрады?~Сколько стоит один билет?~How much does one ticket cost?
+Бір билет бес жүз теңге тұрады.~Один билет стоит пятьсот тенге.~One ticket costs five hundred tenge.
+Екі билет мың теңге тұрады.~Два билета стоят тысячу тенге.~Two tickets cost one thousand tenge.
+Мен жиырма бес жастамын.~Мне двадцать пять лет.~I am twenty-five years old.
+
+A1|4|Түстер|Цвета и признаки|Colours and descriptions|Прилагательное ставится перед существительным: көк жейде — синяя рубашка. Оно не меняется из-за числа предметов: көк жейделер. В вопросе «Қандай?» спрашивают о признаке, а «Қай?» помогает выбрать конкретный предмет из нескольких.|Place adjectives before nouns: көк жейде means a blue shirt. The adjective does not change for plural nouns: көк жейделер. Қандай? asks about a quality; қай? helps identify a particular item among several.
+Сізге қандай түсті жейде керек?~Рубашка какого цвета вам нужна?~What colour shirt do you need?
+Маған көк жейде керек.~Мне нужна синяя рубашка.~I need a blue shirt.
+Ақ түстісі бар ма?~Есть белая?~Do you have a white one?
+Иә, мына ақ жейдені көріңіз.~Да, посмотрите эту белую рубашку.~Yes, have a look at this white shirt.
+Қызыл сөмке үстелдің үстінде тұр.~Красная сумка стоит на столе.~The red bag is on the table.
+Маған жасыл түс ұнайды.~Мне нравится зелёный цвет.~I like green.
+
+A1|101|Мен және сіз|Личные местоимения|Personal pronouns|Основные местоимения: мен — я, сен — ты, сіз — вы, ол — он или она. В казахском нет грамматического рода местоимения ол. В «Мен студентпін» окончание -пін связывает профессию или статус с говорящим; отдельное слово «есть» обычно не требуется.|The core pronouns are мен, сен, сіз and ол. The pronoun ол does not distinguish “he” from “she”. In “Мен студентпін”, the ending -пін links the speaker to a role or status; there is usually no separate present-tense word for “am”.
+Сіз студентсіз бе?~Вы студент?~Are you a student?
+Иә, мен студентпін.~Да, я студент.~Yes, I am a student.
+Ол кім?~Кто это?~Who is that?
+Ол — менің досым.~Это мой друг.~That is my friend.
+Біз бірге оқимыз.~Мы учимся вместе.~We study together.
+Сен менің тобымдасың.~Ты в моей группе.~You are in my group.
+
+A1|102|Бұл және сол|Этот и тот|This and that|Бұл указывает на близкий предмет, а сол — на предмет, о котором уже говорят, или находящийся дальше. Вопрос «Бұл не?» означает «Что это?». В коротком именном предложении связка в настоящем времени может отсутствовать: «Бұл — кітап».|Бұл points to something nearby; сол can refer to something farther away or already mentioned. “Бұл не?” means “What is this?”. Short noun sentences often have no present-tense linking verb: “Бұл — кітап” means “This is a book”.
+Бұл не?~Что это?~What is this?
+Бұл — кітап.~Это книга.~This is a book.
+Ал мынау не?~А это что?~And what is this?
+Мынау — дәптер.~Это тетрадь.~This is a notebook.
+Сол кітап менікі.~Та книга моя.~That book is mine.
+Мына қаламды алыңыз.~Возьмите эту ручку.~Take this pen.
+
+A1|103|Көпше түр|Множественное число|Plural forms|Окончания множественного числа имеют варианты -лар/-лер, -дар/-дер, -тар/-тер. Выбор зависит от последнего звука и гласных: балалар, үйлер, кітаптар. После точного числа окончание обычно не нужно: үш кітап, а не үш кітаптар.|Plural endings have several forms: -лар/-лер, -дар/-дер and -тар/-тер. The choice depends on the final sound and vowel harmony: балалар, үйлер, кітаптар. Do not normally add a plural ending after an exact number: say үш кітап.
+Сыныпта балалар бар ма?~В классе есть дети?~Are there children in the classroom?
+Иә, балалар осында.~Да, дети здесь.~Yes, the children are here.
+Кітаптар қайда?~Где книги?~Where are the books?
+Кітаптар сөреде тұр.~Книги стоят на полке.~The books are on the shelf.
+Үстелде үш дәптер жатыр.~На столе лежат три тетради.~There are three notebooks on the table.
+Достарым бүгін келеді.~Мои друзья придут сегодня.~My friends are coming today.
+
+A1|104|Менің заттарым|Мои вещи|My belongings|Притяжательные формы показывают владельца: менің кітабым, сенің кітабың, сіздің кітабыңыз. Местоимение и окончание работают вместе. Не переносите русское отсутствие окончания в казахский: «менің кітап» вместо «менің кітабым» не является полной нормативной формой.|Possessive forms mark the owner: менің кітабым, сенің кітабың and сіздің кітабыңыз. The pronoun and noun ending work together. Do not leave the noun unchanged after менің; use the complete form менің кітабым.
+Бұл сіздің сөмкеңіз бе?~Это ваша сумка?~Is this your bag?
+Иә, бұл менің сөмкем.~Да, это моя сумка.~Yes, this is my bag.
+Телефоныңыз қайда?~Где ваш телефон?~Where is your phone?
+Телефоным қалтамда.~Мой телефон в кармане.~My phone is in my pocket.
+Менің кілтім үйде қалды.~Мой ключ остался дома.~I left my key at home.
+Мынау — сенің дәптерің.~Это твоя тетрадь.~This is your notebook.
+
+A1|105|Үйдегі адамдар|Семья: первые слова|Family: first words|Для простого рассказа о семье используйте «Бұл — менің ...». Термины аға и іні обозначают старшего и младшего брата; әпке и сіңлі/қарындас зависят от возраста и от того, кто говорит. В этом уроке сіңлі употребляется в речи женщины.|Use “Бұл — менің ...” to introduce a family member. Аға and іні distinguish older and younger brothers. Әпке and сіңлі/қарындас depend on relative age and the speaker. In this lesson, сіңлі is used by a female speaker.
+Бұл кім?~Кто это?~Who is this?
+Бұл — менің анам.~Это моя мама.~This is my mother.
+Сіздің ағаңыз бар ма?~У вас есть старший брат?~Do you have an older brother?
+Иә, менің бір ағам бар.~Да, у меня есть один старший брат.~Yes, I have one older brother.
+Менің сіңлім мектепте оқиды.~Моя младшая сестра учится в школе.~My younger sister goes to school.
+Біздің отбасымыз үлкен емес.~Наша семья небольшая.~Our family is not large.
+
+A1|106|Бар және жоқ|Есть и нет|Existence and absence|Бар сообщает о наличии, жоқ — об отсутствии. В конструкции «Менде кітап бар» форма менде указывает, у кого есть предмет. Сравните «Кітап бар» — наличие вообще и «Менде кітап бар» — наличие у конкретного человека.|Бар expresses existence and жоқ expresses absence. In “Менде кітап бар”, менде identifies the person who has the item. Compare “Кітап бар” with “Менде кітап бар”: the second sentence specifically tells us who has the book.
+Сізде қалам бар ма?~У вас есть ручка?~Do you have a pen?
+Иә, менде қалам бар.~Да, у меня есть ручка.~Yes, I have a pen.
+Сізде бос дәптер бар ма?~У вас есть чистая тетрадь?~Do you have a blank notebook?
+Жоқ, менде бос дәптер жоқ.~Нет, у меня нет чистой тетради.~No, I don’t have a blank notebook.
+Бүгін уақытым бар.~Сегодня у меня есть время.~I have time today.
+Үйде ешкім жоқ.~Дома никого нет.~There is nobody at home.
+
+A1|107|Сұрақ қою|Как задать вопрос|Asking questions|Да-нет вопросы часто образуются частицами ма/ме, ба/бе, па/пе. Они пишутся отдельно: бар ма, келдіңіз бе, кітап па. Вопросительные слова кім, не, қайда уже задают вопрос, поэтому дополнительная частица обычно не нужна.|Yes/no questions often use ма/ме, ба/бе or па/пе, written as separate words: бар ма, келдіңіз бе, кітап па. Question words such as кім, не and қайда already make a question, so you do not normally add another question particle.
+Бұл кітап па?~Это книга?~Is this a book?
+Иә, бұл кітап.~Да, это книга.~Yes, this is a book.
+Мұнда отыруға бола ма?~Можно здесь сесть?~May I sit here?
+Иә, отырыңыз.~Да, садитесь.~Yes, please sit down.
+Сіз қайда барасыз?~Куда вы идёте?~Where are you going?
+Оның аты кім?~Как его зовут?~What is his name?
+
+A1|108|Сыныпта|В классе|In the classroom|Вежливую просьбу можно выразить формой на -ңыз/-ңіз: оқыңыз, жазыңыз. «Қайталаңызшы» добавляет мягкую просьбу с помощью -шы. Сравнивайте команды преподавателя и ответ ученика, чтобы узнавать их в реальном уроке.|Polite instructions can end in -ңыз/-ңіз: оқыңыз and жазыңыз. Adding -шы can soften a request, as in қайталаңызшы. Practise recognising both the teacher’s instruction and the learner’s response.
+Мәтінді оқыңыз.~Прочитайте текст.~Read the text.
+Қай жерден бастайын?~С какого места начать?~Where should I start?
+Бірінші сөйлемнен бастаңыз.~Начните с первого предложения.~Start with the first sentence.
+Жақсы, түсіндім.~Хорошо, я понял.~All right, I understand.
+Қайталаңызшы.~Повторите, пожалуйста.~Please repeat that.
+Бұл сөзді жазыңыз.~Запишите это слово.~Write down this word.
+
+A1|109|Уақыт|Который час|Telling the time|В вопросе о времени используйте «Сағат неше?». Для точного времени: «Сағат тоғыз». Окончания -да/-де/-та/-те отвечают на вопрос «когда?»: сағат тоғызда. Различайте время на часах и время события.|Ask the time with “Сағат неше?”. “Сағат тоғыз” states the time; “сағат тоғызда” means “at nine o’clock”. The endings -да/-де/-та/-те mark when an event happens. Keep clock time and event time distinct.
+Қазір сағат неше?~Который сейчас час?~What time is it now?
+Қазір сағат тоғыз.~Сейчас девять часов.~It is nine o’clock now.
+Сабақ нешеде басталады?~Во сколько начинается урок?~What time does the lesson start?
+Сабақ сағат онда басталады.~Урок начинается в десять.~The lesson starts at ten.
+Мен сағат жетіде тұрамын.~Я встаю в семь.~I get up at seven.
+Кездесу сағат үште болады.~Встреча будет в три.~The meeting will be at three.
+
+A1|110|Апта күндері|Дни недели|Days of the week|Названия дней недели употребляются с -да/-де для указания времени: дүйсенбіде, жұмада. «Бүгін», «ертең» и «кеше» — самостоятельные наречия. Не добавляйте к ним окончание автоматически, когда просто говорите «сегодня» или «завтра».|Add -да/-де to a weekday to say “on”: дүйсенбіде, жұмада. Бүгін, ертең and кеше are independent time adverbs. Do not automatically add an ending to them when you simply mean today, tomorrow or yesterday.
+Бүгін аптаның қай күні?~Какой сегодня день недели?~What day of the week is it today?
+Бүгін дүйсенбі.~Сегодня понедельник.~Today is Monday.
+Сіз жұмада боссыз ба?~Вы свободны в пятницу?~Are you free on Friday?
+Иә, жұмада боспын.~Да, в пятницу я свободен.~Yes, I’m free on Friday.
+Ертең сейсенбі болады.~Завтра будет вторник.~Tomorrow is Tuesday.
+Біз жексенбіде демаламыз.~Мы отдыхаем в воскресенье.~We rest on Sunday.
+
+A1|111|Күн тәртібі|Распорядок дня|Daily routine|Формы тұрамын, барамын, оқимын часто описывают регулярные действия. Слова таңертең, түсте, кешке помогают расположить события по времени. В простом повествовании сказуемое обычно стоит в конце предложения.|Forms such as тұрамын, барамын and оқимын often describe routines. Таңертең, түсте and кешке organise events by time of day. In a straightforward statement, the verb usually comes at the end.
+Сіз таңертең не істейсіз?~Что вы делаете утром?~What do you do in the morning?
+Таңертең жаттығу жасаймын.~Утром я делаю зарядку.~I exercise in the morning.
+Содан кейін қайда барасыз?~Куда вы идёте потом?~Where do you go after that?
+Содан кейін жұмысқа барамын.~Потом я иду на работу.~Then I go to work.
+Түсте әріптестеріммен тамақтанамын.~Днём я обедаю с коллегами.~I have lunch with my colleagues.
+Кешке кітап оқимын.~Вечером я читаю книгу.~I read a book in the evening.
+
+A1|112|Үй және бөлмелер|Дом и комнаты|Home and rooms|Местонахождение можно выразить окончанием -да/-де/-та/-те: үйде, асүйде, бөлмеде. Вопрос «Қайда?» означает «где?» или «куда?» в зависимости от глагола. Сочетайте названия комнат с конкретными предметами и действиями.|Use -да/-де/-та/-те to express location: үйде, асүйде, бөлмеде. Қайда? can ask “where?” or “where to?”, depending on the verb. Practise room names with specific objects and actions.
+Сіздің үйіңізде неше бөлме бар?~Сколько комнат в вашем доме?~How many rooms are there in your home?
+Үйімізде үш бөлме бар.~В нашем доме три комнаты.~There are three rooms in our home.
+Асүй қайда?~Где кухня?~Where is the kitchen?
+Асүй дәліздің оң жағында.~Кухня справа от коридора.~The kitchen is on the right of the hallway.
+Менің бөлмем жарық.~Моя комната светлая.~My room is bright.
+Қонақ бөлмеде үлкен үстел бар.~В гостиной есть большой стол.~There is a large table in the living room.
+
+A1|113|Қай жерде?|Где находится предмет|Where things are|Послеложные имена үсті, асты, іші сочетаются с владельцем в родительном падеже: үстелдің үстінде. Последняя часть получает притяжательное и местное окончания. Запоминайте целые модели, а не только отдельные слова «верх» и «низ».|Location expressions such as үсті, асты and іші combine with a genitive noun: үстелдің үстінде means “on the table”. The final word carries possessive and location endings. Learn complete patterns rather than isolated words for top or bottom.
+Кітап қайда жатыр?~Где лежит книга?~Where is the book?
+Кітап үстелдің үстінде жатыр.~Книга лежит на столе.~The book is on the table.
+Сөмке қайда тұр?~Где стоит сумка?~Where is the bag?
+Сөмке орындықтың астында тұр.~Сумка стоит под стулом.~The bag is under the chair.
+Кілт қораптың ішінде.~Ключ внутри коробки.~The key is inside the box.
+Дүкен үйдің жанында.~Магазин рядом с домом.~The shop is next to the house.
+
+A1|114|Киім|Одежда|Clothes|Когда предмет является конкретным объектом действия, он часто получает винительный падеж: жейдені көрсетіңіз. Для просьбы используйте -шы/-ші: көрсетіңізші. Слова үлкен, кішкентай и өлшем помогают описать размер без сложной грамматики.|A specific direct object often takes the accusative ending: жейдені көрсетіңіз means “show the shirt”. Add -шы/-ші for a softer request. Үлкен, кішкентай and өлшем help you discuss size with simple structures.
+Мына күртені көрсетіңізші.~Покажите, пожалуйста, эту куртку.~Please show me this jacket.
+Қандай өлшем керек?~Какой размер нужен?~What size do you need?
+Маған қырық сегізінші өлшем керек.~Мне нужен сорок восьмой размер.~I need size forty-eight.
+Мына күртені киіп көріңіз.~Примерьте эту куртку.~Try this jacket on.
+Бұл аяқкиім маған кішкентай.~Эта обувь мне мала.~These shoes are too small for me.
+Маған жылы киім керек.~Мне нужна тёплая одежда.~I need warm clothes.
+
+A1|115|Ауа райы|Погода|The weather|О погоде можно сказать коротко: «Күн жылы», «Күн суық». Формы жауып тұр и соғып тұр описывают происходящее сейчас. В этих сочетаниях основной смысл несёт первый глагол, а тұр помогает представить текущую ситуацию.|Short weather statements include “Күн жылы” and “Күн суық”. Жауып тұр and соғып тұр describe what is happening now. The first verb carries the main meaning, while тұр helps describe an ongoing situation.
+Бүгін ауа райы қандай?~Какая сегодня погода?~What is the weather like today?
+Бүгін күн жылы.~Сегодня тепло.~It is warm today.
+Далада жаңбыр жауып тұр ма?~На улице идёт дождь?~Is it raining outside?
+Жоқ, күн ашық.~Нет, ясно.~No, it is clear.
+Қатты жел соғып тұр.~Дует сильный ветер.~A strong wind is blowing.
+Қыста күн суық болады.~Зимой бывает холодно.~It is cold in winter.
+
+A1|116|Ұнату|Что мне нравится|Likes and preferences|В конструкции «Маған ... ұнайды» форма маған обозначает того, кому что-то нравится. Отрицание образуется как ұнамайды. Не заменяйте маған на мен механически: в этой модели нужен дательный падеж.|In “Маған ... ұнайды”, маған identifies the person who likes something. The negative form is ұнамайды. Do not replace маған with мен in this construction: this pattern needs the dative form.
+Сізге қандай музыка ұнайды?~Какая музыка вам нравится?~What kind of music do you like?
+Маған қазақ әндері ұнайды.~Мне нравятся казахские песни.~I like Kazakh songs.
+Сізге мына ән ұнай ма?~Вам нравится эта песня?~Do you like this song?
+Иә, маған өте ұнайды.~Да, мне очень нравится.~Yes, I like it very much.
+Маған ащы тамақ ұнамайды.~Мне не нравится острая еда.~I don’t like spicy food.
+Бізге бірге серуендеу ұнайды.~Нам нравится гулять вместе.~We like going for walks together.
+
+A1|117|Қалау және қажеттілік|Желания и потребности|Wants and needs|«Маған ... керек» сообщает о необходимости предмета. Для желания выполнить действие используют форму «...-ғым/-гім келеді»: барғым келеді, үйренгім келеді. Это не буквальная копия русского «я хочу»: форма желания включает показатель лица.|“Маған ... керек” expresses a need for something. To express a wish to do something, use -ғым/-гім келеді: барғым келеді, үйренгім келеді. This construction includes a personal ending rather than a separate equivalent of “I want”.
+Сізге не керек?~Что вам нужно?~What do you need?
+Маған бір стақан су керек.~Мне нужен стакан воды.~I need a glass of water.
+Кешке қайда барғыңыз келеді?~Куда вы хотите пойти вечером?~Where would you like to go this evening?
+Саябаққа барғым келеді.~Я хочу пойти в парк.~I would like to go to the park.
+Мен қазақша еркін сөйлегім келеді.~Я хочу свободно говорить по-казахски.~I want to speak Kazakh fluently.
+Бүгін ертерек демалғым келеді.~Сегодня я хочу отдохнуть пораньше.~I would like to rest earlier today.
+
+A1|118|Дүкенде|В магазине|At the shop|Для вежливой покупки используйте «... беріңізші». Вопрос «Қанша тұрады?» относится к цене. «Басқа» означает «другой» или «ещё», а «бәрі» — «всё». Составляйте диалог от выбора товара до завершения покупки.|Use “... беріңізші” to ask politely for an item. “Қанша тұрады?” asks about the price. Басқа means another or else, while бәрі means everything. Practise the whole exchange from choosing an item to finishing the purchase.
+Маған бір бөлке нан беріңізші.~Дайте, пожалуйста, одну буханку хлеба.~Please give me a loaf of bread.
+Тағы не аласыз?~Что ещё возьмёте?~What else would you like?
+Бір литр сүт аламын.~Я возьму литр молока.~I’ll have a litre of milk.
+Барлығы мың теңге болады.~С вас тысяча тенге.~That will be one thousand tenge.
+Картамен төлеуге бола ма?~Можно оплатить картой?~Can I pay by card?
+Маған түбіртек беріңізші.~Дайте, пожалуйста, чек.~Please give me a receipt.
+
+A1|119|Су және тамақ|Еда и напитки: основы|Food and drinks: basics|Глаголы ішу и жеу различают употребление напитков и еды: су ішемін, нан жеймін. В выражении «Қарным ашты» состояние передаётся устойчивой конструкцией. Учите её целиком, а не переводите каждое слово буквально.|Ішу and жеу distinguish drinking from eating: су ішемін, нан жеймін. “Қарным ашты” is an established expression for being hungry. Learn the complete expression instead of translating each word separately.
+Шай ішесіз бе?~Будете чай?~Would you like some tea?
+Иә, рақмет. Қантсыз ішемін.~Да, спасибо. Я пью без сахара.~Yes, thank you. I take it without sugar.
+Тағы су керек пе?~Нужна ещё вода?~Would you like some more water?
+Жоқ, рақмет, жеткілікті.~Нет, спасибо, достаточно.~No, thank you. That is enough.
+Мен таңертең ботқа жеймін.~Утром я ем кашу.~I eat porridge in the morning.
+Қарным ашты.~Я проголодался.~I’m hungry.
+
+A1|120|Көлік|Городской транспорт|Getting around by public transport|Направление часто выражается дательным падежом: мектепке, орталыққа. Сочетание «автобуспен» означает «на автобусе»: -пен показывает средство передвижения. Вежливый вопрос к водителю можно начать с «Бұл автобус ... бара ма?».|Destinations often take the dative ending: мектепке, орталыққа. Автобуспен means “by bus”; -пен marks the means of transport. A polite question to a driver can begin “Бұл автобус ... бара ма?”.
+Бұл автобус орталыққа бара ма?~Этот автобус идёт в центр?~Does this bus go to the city centre?
+Иә, орталыққа барады.~Да, идёт в центр.~Yes, it does.
+Қай аялдамадан түсуім керек?~На какой остановке мне выйти?~Which stop should I get off at?
+Келесі аялдамадан түсіңіз.~Выходите на следующей остановке.~Get off at the next stop.
+Мен жұмысқа автобуспен барамын.~Я езжу на работу на автобусе.~I go to work by bus.
+Аялдама көшенің арғы бетінде.~Остановка на другой стороне улицы.~The bus stop is across the street.
+
+A1|121|Телефонмен сөйлесу|Разговор по телефону|On the phone|По телефону важно уметь проверить связь и попросить повторить. В «Естіп тұрсыз ба?» вспомогательный тұр описывает текущее восприятие. Форма «айтыңызшы» — вежливая просьба сказать, а «күте тұрыңыз» — просьба немного подождать.|On a call, you need to check the connection and ask for repetition. In “Естіп тұрсыз ба?”, тұр describes current hearing. Айтыңызшы is a polite request to say something, and күте тұрыңыз asks someone to wait a moment.
+Алло, мені естіп тұрсыз ба?~Алло, вы меня слышите?~Hello, can you hear me?
+Иә, жақсы естіп тұрмын.~Да, я хорошо вас слышу.~Yes, I can hear you well.
+Атыңызды қайта айтыңызшы.~Повторите, пожалуйста, ваше имя.~Could you repeat your name, please?
+Менің атым Арман.~Меня зовут Арман.~My name is Arman.
+Сәл күте тұрыңыз.~Подождите немного, пожалуйста.~Please wait a moment.
+Мен сізге кейін хабарласамын.~Я свяжусь с вами позже.~I will contact you later.
+
+A1|122|Денсаулық|Самочувствие|How you feel|Для описания боли употребляют притяжательную форму части тела и ауырады: басым ауырады. Вопрос «Қай жеріңіз ауырады?» использует вежливое обращение. Эти фразы помогают описать самочувствие; они не являются медицинскими рекомендациями.|To describe pain, use a possessive body-part noun with ауырады: басым ауырады means “my head hurts”. “Қай жеріңіз ауырады?” uses polite address. These phrases help you describe how you feel; they are not medical advice.
+Өзіңізді қалай сезінесіз?~Как вы себя чувствуете?~How are you feeling?
+Басым ауырып тұр.~У меня болит голова.~I have a headache.
+Дәрігерге барғыңыз келе ме?~Вы хотите обратиться к врачу?~Would you like to see a doctor?
+Иә, дәрігерге баруым керек.~Да, мне нужно обратиться к врачу.~Yes, I need to see a doctor.
+Бүгін өзімді жақсы сезінемін.~Сегодня я чувствую себя хорошо.~I feel well today.
+Мен біраз демалайын.~Я немного отдохну.~I’ll rest for a while.
+
+A1|123|Демалыс|Свободное время|Free time|Для рассказа об увлечениях используйте глаголы в привычном настоящем: оқимын, ойнаймын, жүремін. Сочетание «...-ғанды/-генді ұнатамын» выражает предпочтение действия. Сначала сравните простую форму действия и готовую модель предпочтения.|Use habitual forms such as оқимын, ойнаймын and жүремін to describe hobbies. The pattern “...-ғанды/-генді ұнатамын” expresses liking an activity. Start by comparing a simple action statement with a complete preference pattern.
+Бос уақытыңызда не істейсіз?~Чем вы занимаетесь в свободное время?~What do you do in your free time?
+Бос уақытымда кітап оқимын.~В свободное время я читаю книги.~I read books in my free time.
+Спортпен айналысасыз ба?~Вы занимаетесь спортом?~Do you do any sport?
+Иә, аптасына екі рет жүземін.~Да, я плаваю два раза в неделю.~Yes, I swim twice a week.
+Мен сурет салғанды ұнатамын.~Я люблю рисовать.~I enjoy drawing.
+Демалыста достарыммен кездесемін.~В выходные я встречаюсь с друзьями.~I meet my friends at the weekend.
+
+A1|124|Шақыру|Приглашение|Making an invitation|Форма «...-айық/-ейік» предлагает совместное действие: барайық, кездесейік. В приглашении можно сначала уточнить свободное время, затем предложить место. «Өкінішке қарай» помогает вежливо отказаться, не превращая отказ в грубое отрицание.|The ending -айық/-ейік suggests doing something together: барайық, кездесейік. Ask about availability before suggesting a place. Өкінішке қарай introduces a polite refusal without sounding abrupt.
+Сенбіде боссыз ба?~Вы свободны в субботу?~Are you free on Saturday?
+Иә, сенбіде боспын.~Да, в субботу я свободен.~Yes, I’m free on Saturday.
+Бірге саябаққа барайық.~Давайте вместе сходим в парк.~Let’s go to the park together.
+Жақсы, сағат үште кездесейік.~Хорошо, встретимся в три.~All right, let’s meet at three.
+Өкінішке қарай, бүгін бара алмаймын.~К сожалению, сегодня я не могу пойти.~Unfortunately, I can’t go today.
+Шақырғаныңызға рақмет.~Спасибо за приглашение.~Thank you for inviting me.
+
+A1|125|Алғашқы әңгімем|Первый самостоятельный разговор|Your first independent conversation|В итоговом разговоре соедините знакомство, место проживания, цель и просьбу. Союз және соединяет однородные части, ал противопоставляет темы. Не стремитесь переводить длинные фразы дословно: сначала стройте короткие законченные предложения.|Combine introductions, where you live, your goal and a request in one conversation. Және joins similar elements, while ал can contrast topics. Do not translate long sentences word for word: start with short, complete statements.
+Сәлеметсіз бе! Менің атым Анна.~Здравствуйте! Меня зовут Анна.~Hello! My name is Anna.
+Танысқаныма қуаныштымын. Менің атым Дана.~Приятно познакомиться. Меня зовут Дана.~It’s nice to meet you. My name is Dana.
+Мен қазақ тілін үйреніп жүрмін. Маған көмектесесіз бе?~Я изучаю казахский язык. Вы мне поможете?~I’m learning Kazakh. Will you help me?
+Әрине, бірге жаттығайық.~Конечно, давайте потренируемся вместе.~Of course, let’s practise together.
+Мен Алматыда тұрамын және осында жұмыс істеймін.~Я живу в Алматы и работаю здесь.~I live in Almaty and work here.
+Баяуырақ сөйлесеңіз, жақсы түсінемін.~Если вы будете говорить медленнее, я лучше пойму.~I understand better if you speak more slowly.
+
+A2|5|Кафеде тапсырыс беру|Заказ в кафе|Ordering at a café|Вежливый заказ соединяет название блюда с «аламын» или «беріңізші». Форма «...-сыз/-сіз» означает отсутствие: қантсыз, сүтсіз. Перед выбором уточняйте состав, а затем количество. Отдельно потренируйте просьбу принести счёт.|A polite order combines a dish name with аламын or беріңізші. The ending -сыз/-сіз expresses absence: қантсыз, сүтсіз. Ask about ingredients before choosing the quantity, then practise asking for the bill.
+Сәлеметсіз бе, ас мәзірін беріңізші.~Здравствуйте, принесите меню, пожалуйста.~Hello, could I have the menu, please?
+Әрине. Тапсырыс беруге дайынсыз ба?~Конечно. Вы готовы сделать заказ?~Of course. Are you ready to order?
+Бір көкөніс сорпасын және қантсыз шай аламын.~Я возьму овощной суп и чай без сахара.~I’ll have vegetable soup and tea without sugar.
+Жақсы, қазір әкелемін.~Хорошо, сейчас принесу.~Certainly, I’ll bring them shortly.
+Бұл тағамның құрамында сүт бар ма?~В этом блюде есть молоко?~Does this dish contain milk?
+Есепті бөлек төлеуге бола ма?~Можно оплатить счёт отдельно?~Can we pay separately?
+
+A2|6|Отбасым туралы|Рассказываем о семье|Talking about your family|Расширьте притяжательные модели: ағамның жұмысы, анамның туған күні. В цепочке владения родительный падеж обозначает владельца, а притяжательное окончание — принадлежащий ему предмет. Используйте -мен/-бен/-пен для совместного действия: отбасыммен.|Extend possessive patterns with ағамның жұмысы and анамның туған күні. The genitive marks the owner, and a possessive ending marks what belongs to them. Use -мен/-бен/-пен for doing something together: отбасыммен.
+Сіз отбасыңызбен бірге тұрасыз ба?~Вы живёте вместе с семьёй?~Do you live with your family?
+Иә, ата-анаммен бірге тұрамын.~Да, я живу с родителями.~Yes, I live with my parents.
+Ағаңыз немен айналысады?~Чем занимается ваш старший брат?~What does your older brother do?
+Ағам мектепте мұғалім болып жұмыс істейді.~Мой старший брат работает учителем в школе.~My older brother works as a schoolteacher.
+Демалыста туыстарымызға қонаққа барамыз.~В выходные мы ходим в гости к родственникам.~We visit our relatives at the weekend.
+Анамның туған күніне сыйлық таңдадым.~Я выбрал подарок на день рождения мамы.~I chose a present for my mother’s birthday.
+
+A2|8|Қалада жол табу|Как найти дорогу|Finding your way around town|Для маршрута используйте бұрылыңыз, жүріңіз и өтіңіз. Послелог дейін означает «до»: аялдамаға дейін. Модель «...-ғаннан кейін» связывает ориентир со следующим действием. Сначала найдите исходную точку, затем перечисляйте шаги по порядку.|Use бұрылыңыз, жүріңіз and өтіңіз for directions. Дейін means “until” or “as far as”: аялдамаға дейін. The pattern “...-ғаннан кейін” connects a landmark or event to the next action. Give the starting point before listing directions.
+Кешіріңіз, кітапханаға қалай баруға болады?~Извините, как пройти в библиотеку?~Excuse me, how can I get to the library?
+Осы көшемен тура жүріңіз.~Идите прямо по этой улице.~Walk straight along this street.
+Бағдаршамнан кейін қайда бұрылайын?~Куда повернуть после светофора?~Which way should I turn after the traffic lights?
+Оңға бұрылсаңыз, кітапхана сол жақта болады.~Если повернёте направо, библиотека будет слева.~Turn right, and the library will be on your left.
+Аялдамаға дейін жаяу бес минут.~До остановки пять минут пешком.~The bus stop is a five-minute walk away.
+Жолдан жаяу жүргіншілер өткелімен өтіңіз.~Переходите дорогу по пешеходному переходу.~Cross the road at the pedestrian crossing.
+
+A2|9|Оқу және жұмыс|Учёба и работа|Study and work|Сочетание «болып жұмыс істеу» обозначает профессию: инженер болып жұмыс істеймін. «... бойынша» указывает направление или специальность. Сравните место работы с областью деятельности; это разные детали, которые можно соединить в одном рассказе.|The pattern болып жұмыс істеу expresses a profession: инженер болып жұмыс істеймін. Бойынша can mark a field or specialisation. Distinguish the place of work from the field of work, then combine both details in an introduction.
+Сіз қайда жұмыс істейсіз?~Где вы работаете?~Where do you work?
+Мен шағын компанияда инженер болып жұмыс істеймін.~Я работаю инженером в небольшой компании.~I work as an engineer at a small company.
+Жұмыс кестеңіз қандай?~Какой у вас график работы?~What is your work schedule?
+Дүйсенбіден жұмаға дейін жұмыс істеймін.~Я работаю с понедельника по пятницу.~I work from Monday to Friday.
+Мен университетте экономика бойынша білім аламын.~Я изучаю экономику в университете.~I study economics at university.
+Сабақтан кейін кітапханада дайындаламын.~После занятий я готовлюсь в библиотеке.~I study in the library after class.
+
+A2|10|Жоспар және уақыт|Планы и договорённости|Plans and arrangements|План можно выразить формами барамын, кездесемін или «...-мақпын/-мекпін». Для согласования времени сначала спросите об удобстве, затем предложите альтернативу. «Егер ... болса» вводит условие, а «онда» помогает обозначить принятое решение.|Plans can use барамын, кездесемін or the intention form -мақпын/-мекпін. Ask whether a time is convenient before proposing an alternative. Егер ... болса introduces a condition, and онда can signal the arrangement you have agreed on.
+Ертең сағат бесте кездесуге уақытыңыз бар ма?~У вас есть время встретиться завтра в пять?~Are you available to meet tomorrow at five?
+Бесте қолым бос емес. Алтыда кездессек бола ма?~В пять я занят. Можно встретиться в шесть?~I’m busy at five. Could we meet at six?
+Иә, алтыда маған ыңғайлы.~Да, в шесть мне удобно.~Yes, six works for me.
+Онда кітапхананың алдында кездесейік.~Тогда встретимся перед библиотекой.~Then let’s meet outside the library.
+Егер жоспар өзгерсе, алдын ала хабарласыңыз.~Если планы изменятся, сообщите заранее.~If your plans change, please let me know in advance.
+Келесі аптада жаңа курсты бастамақпын.~На следующей неделе я собираюсь начать новый курс.~I intend to start a new course next week.
+
+A2|201|Кеше не істедіңіз?|Прошедший день|Talking about yesterday|Определённое прошедшее время образуется с -ды/-ді/-ты/-ті: бардым, келдім, оқыдым. Личное окончание показывает участника действия. Слова алдымен, содан кейін и соңында помогают превратить отдельные факты в последовательный рассказ.|Definite past tense uses -ды/-ді/-ты/-ті: бардым, келдім, оқыдым. A personal ending identifies who did the action. Use алдымен, содан кейін and соңында to turn separate events into an ordered account.
+Кеше жұмыстан кейін не істедіңіз?~Что вы делали вчера после работы?~What did you do after work yesterday?
+Алдымен дүкенге бардым, содан кейін үйге қайттым.~Сначала я сходил в магазин, затем вернулся домой.~First I went to the shop, then I returned home.
+Кешке демалуға уақыт болды ма?~Вечером было время отдохнуть?~Did you have time to relax in the evening?
+Иә, бір сағат кітап оқыдым.~Да, я час читал книгу.~Yes, I read a book for an hour.
+Біз кеше жаңа көрмені көрдік.~Вчера мы посмотрели новую выставку.~We saw a new exhibition yesterday.
+Күннің соңында ертеңгі жоспарымды жаздым.~В конце дня я записал план на завтра.~At the end of the day, I wrote down my plan for tomorrow.
+
+A2|202|Қазір не болып жатыр?|Что происходит сейчас|What is happening now|Для действия в процессе используются формы на -ып/-іп/-п со вспомогательными отыр, тұр, жүр, жатыр. Выбор связан с характером действия и контекстом. Сравните привычное «оқимын» и текущее «оқып отырмын», не считая их полностью взаимозаменяемыми.|Ongoing actions use -ып/-іп/-п with отыр, тұр, жүр or жатыр. The auxiliary depends on the action and context. Compare habitual оқимын with current оқып отырмын; they are not interchangeable in every situation.
+Қазір не істеп отырсыз?~Что вы сейчас делаете?~What are you doing now?
+Қазақ тілінен тапсырма орындап отырмын.~Я выполняю задание по казахскому языку.~I’m doing a Kazakh assignment.
+Досыңыз сізді күтіп тұр ма?~Ваш друг вас ждёт?~Is your friend waiting for you?
+Иә, ол есіктің алдында күтіп тұр.~Да, он ждёт у двери.~Yes, he is waiting by the door.
+Балалар аулада ойнап жүр.~Дети играют во дворе.~The children are playing in the courtyard.
+Мен соңғы кезде осы тақырыпты зерттеп жүрмін.~В последнее время я изучаю эту тему.~I have been exploring this topic recently.
+
+A2|203|Болашақ жоспарлар|Будущие планы|Future plans|Намерение можно передать формой -мақ/-мек с личным окончанием: бармақпын. «...-уды жоспарлап отырмын» подчёркивает планирование. Указывайте время и причину, чтобы собеседник различал намерение, договорённость и общую мечту.|The intention form -мақ/-мек takes a personal ending: бармақпын. “...-уды жоспарлап отырмын” emphasises planning. Include a time and a reason so the listener can distinguish an intention from an arrangement or a general wish.
+Келесі айда не істемекшісіз?~Что вы собираетесь делать в следующем месяце?~What do you intend to do next month?
+Кәсіби курсқа қатыспақпын.~Я собираюсь пройти профессиональный курс.~I intend to attend a professional course.
+Неліктен осы курсты таңдадыңыз?~Почему вы выбрали этот курс?~Why did you choose this course?
+Жұмысымда жаңа дағдылар керек болғандықтан таңдадым.~Я выбрал его, потому что мне нужны новые навыки для работы.~I chose it because I need new skills for my work.
+Жазда отбасыммен саяхаттауды жоспарлап отырмын.~Летом я планирую путешествовать с семьёй.~I’m planning to travel with my family in the summer.
+Билет сатып алмас бұрын күндерді нақтылаймын.~Прежде чем купить билет, я уточню даты.~I will confirm the dates before buying a ticket.
+
+A2|204|Салыстыру|Сравниваем варианты|Comparing options|Сравнение часто использует исходный падеж и -рақ/-рек: арзанырақ, ыңғайлырақ. В «Мынау анадан арзанырақ» исходный падеж отмечает точку сравнения. Не путайте «более дешёвый» с «самый дешёвый»: последнее требует отдельного усиления ең.|Comparisons often combine the ablative case with -рақ/-рек: арзанырақ, ыңғайлырақ. In “Мынау анадан арзанырақ”, the ablative marks what you compare against. Do not confuse “cheaper” with “the cheapest”, which uses ең.
+Қай нұсқа сізге ыңғайлырақ?~Какой вариант вам удобнее?~Which option is more convenient for you?
+Пойызбен бару автобуспен барғаннан ыңғайлырақ.~Ехать поездом удобнее, чем автобусом.~Travelling by train is more convenient than going by bus.
+Ал қайсысы арзанырақ?~А какой дешевле?~Which one is cheaper?
+Автобус билеті арзанырақ, бірақ жол ұзағырақ.~Билет на автобус дешевле, но дорога дольше.~The bus ticket is cheaper, but the journey is longer.
+Бұл бөлме алдыңғысынан жарығырақ.~Эта комната светлее предыдущей.~This room is brighter than the previous one.
+Ең ыңғайлы уақытты бірге таңдайық.~Давайте вместе выберем самое удобное время.~Let’s choose the most convenient time together.
+
+A2|205|Саяхатқа дайындық|Подготовка к поездке|Preparing for a trip|Перед поездкой пригодятся модели «... керек» и «... қажет». Действие перед другой задачей обозначается через «...-мас бұрын»: шықпас бұрын. Отрицательное деепричастие и послелог вместе образуют значение «прежде чем», а не простой запрет.|The patterns ... керек and ... қажет express what is needed for a trip. “...-мас бұрын”, as in шықпас бұрын, means “before doing something”. This combination expresses order in time, not a prohibition.
+Сапарға не дайындауымыз керек?~Что нам нужно подготовить к поездке?~What do we need to prepare for the trip?
+Алдымен билеттер мен құжаттарды тексерейік.~Сначала проверим билеты и документы.~Let’s check the tickets and documents first.
+Жолға шықпас бұрын қонақүйге хабарласамыз ба?~Свяжемся с гостиницей перед выездом?~Shall we contact the hotel before we leave?
+Иә, келетін уақытымызды хабарлауымыз қажет.~Да, нам нужно сообщить время прибытия.~Yes, we need to tell them our arrival time.
+Ауа райына сай киім алыңыз.~Возьмите одежду по погоде.~Pack clothes suitable for the weather.
+Қажетті мекенжайларды телефоныма сақтап қойдым.~Я сохранил нужные адреса в телефоне.~I have saved the addresses I need on my phone.
+
+A2|206|Қонақүйде|В гостинице|At a hotel|Забронированный номер можно описать формой «тапсырыс берген едім». Прошедшая форма с едім помогает вежливо напомнить о предыдущем действии. В запросах различайте подтверждение брони, оснащение комнаты и время выезда.|“Тапсырыс берген едім” can refer politely to an earlier reservation. The past form with едім recalls a previous action. Keep confirmation of the booking, room facilities and check-out time separate when asking questions.
+Сәлеметсіз бе, мен бөлмеге тапсырыс берген едім.~Здравствуйте, я бронировала номер.~Hello, I made a room reservation.
+Қай атқа тапсырыс бердіңіз?~На какое имя вы бронировали?~What name is the reservation under?
+Айдана Омарова деген атқа.~На имя Айданы Омаровой.~It is under Aidana Omarova.
+Қош келдіңіз! Сіздің бөлмеңіз үшінші қабатта.~Добро пожаловать! Ваш номер на третьем этаже.~Welcome! Your room is on the third floor.
+Таңғы ас бағаға кіре ме?~Завтрак входит в стоимость?~Is breakfast included in the price?
+Бөлмеден сағат нешеде шығу керек?~Во сколько нужно освободить номер?~What time is check-out?
+
+A2|207|Қызмет сұрау|Обращение за услугой|Asking for a service|Вежливый запрос можно оформить через «...-ып/-іп бере аласыз ба?». Эта конструкция спрашивает о возможности помочь, а не только о физическом умении. Уточняйте срок и стоимость отдельными вопросами, чтобы запрос оставался понятным.|A polite service request can use “...-ып/-іп бере аласыз ба?”. This asks whether someone can help, not merely whether they have a physical ability. Ask about timing and cost separately to keep the request clear.
+Мына құжатты басып шығарып бере аласыз ба?~Вы можете распечатать этот документ?~Could you print this document for me?
+Әрине, неше дана керек?~Конечно, сколько экземпляров нужно?~Of course, how many copies do you need?
+Маған екі дана керек. Қанша уақытта дайын болады?~Мне нужны два экземпляра. Когда будет готово?~I need two copies. How long will it take?
+Он минуттан кейін дайын болады.~Будет готово через десять минут.~It will be ready in ten minutes.
+Құжатты электрондық поштаға жібердім.~Я отправил документ по электронной почте.~I have sent the document by email.
+Қызмет құнын алдын ала айтыңызшы.~Скажите, пожалуйста, стоимость услуги заранее.~Please tell me the cost of the service in advance.
+
+A2|208|Себеп және нәтиже|Причина и результат|Cause and result|Өйткені вводит причину, сондықтан — результат. Не меняйте их местами: «Кешіктім, өйткені ...» объясняет опоздание, а «... болды, сондықтан кешіктім» выводит следствие. Сначала определите, какая часть сообщает причину.|Өйткені introduces a reason; сондықтан introduces a result. “Кешіктім, өйткені ...” explains being late, while “... болды, сондықтан кешіктім” presents its consequence. Identify the reason before choosing a connector.
+Бүгін неге кешіктіңіз?~Почему вы сегодня опоздали?~Why were you late today?
+Автобус кеш келді, сондықтан кешіктім.~Автобус пришёл поздно, поэтому я опоздал.~The bus arrived late, so I was late.
+Таксимен келмедіңіз бе?~Вы не приехали на такси?~Didn’t you take a taxi?
+Жоқ, өйткені жолда үлкен кептеліс болды.~Нет, потому что на дороге была большая пробка.~No, because there was a major traffic jam.
+Күн суық болғандықтан, жылы киіндім.~Поскольку было холодно, я оделся тепло.~I dressed warmly because it was cold.
+Тапсырманы ерте бітірдім, сондықтан демалуға уақыт қалды.~Я рано закончил задание, поэтому осталось время на отдых.~I finished the task early, so I had time to rest.
+
+A2|209|Көмек және кеңес|Помощь и совет|Help and advice|Модель «...-ған/-ген дұрыс» даёт совет, а «... керек» может выражать более сильную необходимость. Учитывайте степень уверенности и отношения с собеседником. Сначала уточните проблему, затем предлагайте конкретное действие.|The pattern “...-ған/-ген дұрыс” offers advice, while ... керек can express a stronger need. Consider your certainty and relationship with the listener. Clarify the problem before proposing a specific action.
+Бұл тапсырманы неден бастаған дұрыс?~С чего лучше начать это задание?~What would be a good way to start this task?
+Алдымен негізгі сұрақты анықтаған дұрыс.~Сначала лучше определить основной вопрос.~It is best to identify the main question first.
+Жоспар құруға көмектесе аласыз ба?~Вы можете помочь составить план?~Could you help me make a plan?
+Әрине, мысалдарды бірге қарастырайық.~Конечно, давайте вместе рассмотрим примеры.~Of course, let’s look at the examples together.
+Түсінбеген жеріңізді қайта сұраудан ұялмаңыз.~Не стесняйтесь переспрашивать о непонятном.~Do not hesitate to ask again if something is unclear.
+Жаңа сөздерді контексте қайталаған пайдалы.~Новые слова полезно повторять в контексте.~It is useful to review new words in context.
+
+A2|210|Күнделікті оқиға|Связный рассказ о событии|Telling a complete story|Соедините прошедшее время, последовательность и оценку события. Слова алдымен, кейін, ақырында показывают порядок; «маған ... ұнады» добавляет личную оценку. Не перечисляйте только действия: объясните хотя бы одну причину и один результат.|Combine past tense, sequencing and a personal response. Алдымен, кейін and ақырында organise events; “маған ... ұнады” adds an evaluation. Go beyond listing actions by explaining at least one reason and one result.
+Демалысыңыз қалай өтті?~Как прошли ваши выходные?~How was your weekend?
+Достарыммен көрмеге бардым, содан кейін бірге түскі ас іштік.~Я сходил с друзьями на выставку, а потом мы вместе пообедали.~I went to an exhibition with friends, and then we had lunch together.
+Көрмеде сізге не ұнады?~Что вам понравилось на выставке?~What did you like about the exhibition?
+Маған жергілікті суретшілердің жұмыстары ұнады.~Мне понравились работы местных художников.~I liked the work by local artists.
+Билет алдын ала алынғандықтан, кезекте тұрмадық.~Поскольку билеты были куплены заранее, мы не стояли в очереди.~We did not queue because the tickets had been bought in advance.
+Күннің соңында жақсы әсермен үйге қайттық.~В конце дня мы вернулись домой с хорошими впечатлениями.~At the end of the day, we went home with happy memories.
+
+B1|301|Тәжірибе туралы айту|Жизненный опыт|Talking about experience|Формы -ған/-ген с личными окончаниями описывают опыт, связанный с настоящим: барғанмын. «Бұрын» задаёт предшествующий период, а «әлі ... жоқ» — отсутствие опыта до настоящего момента. Сравнивайте опыт вообще и отдельное событие с точной датой.|Forms in -ған/-ген with personal endings can describe relevant experience: барғанмын. Бұрын refers to an earlier period, while әлі ... жоқ indicates that something has not happened yet. Distinguish general experience from a dated past event.
+Сіз бұрын Қазақстанның басқа қалаларында болғансыз ба?~Вы раньше бывали в других городах Казахстана?~Have you visited other cities in Kazakhstan before?
+Иә, Шымкент пен Түркістанда болғанмын.~Да, я бывал в Шымкенте и Туркестане.~Yes, I have been to Shymkent and Turkistan.
+Қай сапар есіңізде ерекше қалды?~Какая поездка вам особенно запомнилась?~Which trip was particularly memorable?
+Түркістанға жасаған сапарым ерекше әсер қалдырды.~Поездка в Туркестан произвела особое впечатление.~My trip to Turkistan left a particularly strong impression.
+Мен ол музейді әлі көрген жоқпын.~Я ещё не видел этот музей.~I haven’t visited that museum yet.
+Келесі жолы тарихи орындарға көбірек уақыт бөлгім келеді.~В следующий раз я хочу уделить больше времени историческим местам.~Next time I would like to spend more time at historical sites.
+
+B1|302|Пікір білдіру|Выражаем мнение|Expressing an opinion|«Меніңше» и «Менің ойымша» вводят мнение, а не доказанный факт. Для аргумента используйте себебі, мысалы, сондықтан. Постройте ответ из позиции, причины и конкретного примера; это убедительнее простого «ұнайды» или «ұнамайды».|Меніңше and Менің ойымша mark an opinion rather than an established fact. Use себебі, мысалы and сондықтан to support it. Build your response from a position, a reason and a concrete example instead of just saying you like or dislike something.
+Сіздің ойыңызша, тілді қалай тиімді үйренуге болады?~Как вы считаете, как можно эффективно изучать язык?~In your opinion, what is an effective way to learn a language?
+Меніңше, күн сайын аз уақыт болса да жаттығу маңызды.~По-моему, важно заниматься каждый день, пусть даже недолго.~I think it is important to practise every day, even for a short time.
+Неліктен күнделікті жаттығуды маңызды деп санайсыз?~Почему вы считаете ежедневную практику важной?~Why do you consider daily practice important?
+Өйткені тұрақты қайталау жаңа сөздерді есте сақтауға көмектеседі.~Потому что регулярное повторение помогает запоминать новые слова.~Because regular review helps us remember new words.
+Мысалы, мен үйренген тіркестерді күнделікті әңгімеде қолданамын.~Например, я использую выученные выражения в повседневных разговорах.~For example, I use the expressions I learn in everyday conversations.
+Бір ғана әдіспен шектелмеген дұрыс деп ойлаймын.~Я думаю, не стоит ограничиваться одним методом.~I think it is best not to rely on just one method.
+
+B1|303|Келісу және келіспеу|Согласие и несогласие|Agreeing and disagreeing|Для частичного согласия используйте «Бұл пікірмен ішінара келісемін». «Дегенмен» вводит оговорку, а «алайда» — противопоставление. Вежливое несогласие сначала признаёт понятую мысль, затем уточняет конкретную причину возражения.|Use “Бұл пікірмен ішінара келісемін” for partial agreement. Дегенмен introduces a qualification, while алайда marks a contrast. Polite disagreement acknowledges the other person’s point before giving a specific reason for your objection.
+Меніңше, барлық сабақ онлайн болуы керек.~По-моему, все занятия должны быть онлайн.~I think all classes should be online.
+Бұл пікірмен ішінара келісемін, дегенмен тікелей қарым-қатынас та маңызды.~Я частично согласен, однако живое общение тоже важно.~I partly agree, but face-to-face interaction is important too.
+Сіз аралас оқытуды ұсынып отырсыз ба?~Вы предлагаете смешанное обучение?~Are you suggesting blended learning?
+Иә, екі тәсілдің артықшылықтарын біріктірген дұрыс.~Да, стоит объединить преимущества двух подходов.~Yes, it makes sense to combine the strengths of both approaches.
+Сіздің уәжіңізді түсінемін, бірақ бұл жерде басқа мәселе бар.~Я понимаю ваш аргумент, но здесь есть другая проблема.~I understand your argument, but there is another issue here.
+Осы тұжырымға толық келісе алмаймын.~Я не могу полностью согласиться с этим выводом.~I cannot fully agree with that conclusion.
+
+B1|304|Шарт және мүмкіндік|Условия и возможности|Conditions and possibilities|Условное наклонение с -са/-се связывает возможное условие с результатом. В «Уақыт болса, барамын» условие предшествует решению. «...-уға болады» выражает допустимость или возможность; не смешивайте его автоматически с обещанием выполнить действие.|The conditional ending -са/-се links a possible condition to a result. In “Уақыт болса, барамын”, the condition comes before the decision. “...-уға болады” expresses possibility or permission, not necessarily a promise to act.
+Егер кездесу ерте аяқталса, көрмеге барамыз ба?~Если встреча закончится рано, пойдём на выставку?~If the meeting finishes early, shall we go to the exhibition?
+Иә, билеттер болса, баруға болады.~Да, если будут билеты, можно пойти.~Yes, we could go if tickets are available.
+Ал үлгермесек ше?~А если не успеем?~What if we don’t have enough time?
+Онда сапарды басқа күнге ауыстырайық.~Тогда перенесём поездку на другой день.~Then let’s move the visit to another day.
+Маған алдын ала айтсаңыз, уақытымды жоспарлаймын.~Если сообщите заранее, я спланирую своё время.~If you tell me in advance, I will plan my time.
+Қажет болса, құжатты қайта жіберуге болады.~Если нужно, документ можно отправить ещё раз.~The document can be sent again if necessary.
+
+B1|305|Жұмыс сұхбаты|Собеседование|A job interview|В профессиональном рассказе соединяйте опыт, обязанности и результат. «Жауапты болдым» обозначает ответственность, «қатыстым» — участие, а «жүзеге асырдым» — выполненное действие. Не приписывайте себе руководство, если описываете только участие в команде.|In a professional introduction, connect experience, responsibilities and results. Жауапты болдым expresses responsibility, қатыстым participation, and жүзеге асырдым implementation. Keep your description precise rather than claiming leadership when you mean team participation.
+Өзіңіздің жұмыс тәжірибеңіз туралы айтып беріңізші.~Расскажите, пожалуйста, о своём опыте работы.~Please tell us about your work experience.
+Соңғы екі жылда клиенттермен жұмыс істеуге жауапты болдым.~Последние два года я отвечал за работу с клиентами.~For the past two years, I have been responsible for working with clients.
+Қандай нәтижені маңызды деп санайсыз?~Какой результат вы считаете важным?~Which achievement do you consider important?
+Командамыз өтініштерге жауап беру уақытын қысқартты.~Наша команда сократила время ответа на обращения.~Our team reduced the time taken to respond to enquiries.
+Мен жаңа міндеттерді үйренуге дайынмын.~Я готов осваивать новые обязанности.~I am ready to learn new responsibilities.
+Осы қызметтегі негізгі міндеттерді нақтылап берсеңіз.~Не могли бы вы уточнить основные обязанности на этой должности?~Could you clarify the main responsibilities of this role?
+
+B1|306|Ресми хат|Деловое письмо|Writing a formal email|Деловое письмо требует обращения, цели, подробностей и вежливого завершения. «Сізден ... сұраймын» формулирует просьбу, а «Алдын ала рақмет» завершает её. В отличие от чата, в официальном письме важно явно указать тему и нужный срок.|A formal email needs a greeting, purpose, details and a polite closing. “Сізден ... сұраймын” introduces a request, and “Алдын ала рақмет” closes it politely. Unlike a casual chat, a formal email should clearly state its subject and any relevant deadline.
+Құрметті Айгүл ханым, курс туралы ақпарат алғым келеді.~Уважаемая Айгуль, я хотел бы получить информацию о курсе.~Dear Aigul, I would like to request information about the course.
+Сәлеметсіз бе, қандай мәлімет қажет екенін нақтылаңызшы.~Здравствуйте, уточните, пожалуйста, какие сведения вам нужны.~Hello, please specify what information you need.
+Сабақ кестесі мен қатысу талаптарын жіберуіңізді сұраймын.~Прошу вас отправить расписание занятий и требования к участию.~Please send me the class schedule and participation requirements.
+Қажетті ақпаратты бүгін жібереміз.~Мы отправим нужную информацию сегодня.~We will send the requested information today.
+Жауабыңызды жұмаға дейін алсам, қуанышты болар едім.~Буду рад получить ваш ответ до пятницы.~I would appreciate receiving your reply by Friday.
+Көмегіңізге алдын ала рақмет.~Заранее благодарю за помощь.~Thank you in advance for your help.
+
+B1|307|Мәселені шешу|Обсуждаем проблему|Discussing a problem|Проблему удобно описывать по схеме: факт, последствие, предложение. «...-ға байланысты» обозначает связь с обстоятельством, «шешім» — решение. Избегайте обвинений, если цель — договориться о следующем действии.|Describe a problem through a fact, its consequence and a proposal. “...-ға байланысты” links an issue to a circumstance, while шешім means a solution or decision. Avoid blame when your aim is to agree on the next step.
+Тапсырыс уақытында келмегендіктен, жұмыс тоқтап қалды.~Поскольку заказ не пришёл вовремя, работа остановилась.~Work has stopped because the order did not arrive on time.
+Қазір қандай шешім ұсына аласыз?~Какое решение вы можете предложить сейчас?~What solution can you suggest now?
+Алдымен қолда бар материалдармен жұмысты жалғастырайық.~Сначала продолжим работу с имеющимися материалами.~Let’s continue with the materials we already have first.
+Жақсы, ал қалған бөлігіне жаңа мерзім белгілейік.~Хорошо, а для остальной части назначим новый срок.~All right, and let’s set a new deadline for the rest.
+Мәселенің себебін анықтамай тұрып, қорытынды жасамайық.~Не будем делать выводы, пока не выясним причину проблемы.~Let’s not draw conclusions before identifying the cause.
+Екі тарапқа да қолайлы нұсқаны табуымыз керек.~Нам нужно найти вариант, удобный обеим сторонам.~We need to find an option that works for both sides.
+
+B1|308|Жаңалықты түсіну|Читаем новость|Understanding a news report|Отделяйте сообщение источника от подтверждённого факта. «... деп хабарлады» передаёт чужое сообщение, «мәлімет бойынша» указывает источник. При пересказе сохраняйте время и степень уверенности, не превращая предположение в установленный результат.|Separate what a source reports from a confirmed fact. “... деп хабарлады” reports someone’s statement, while мәлімет бойынша attributes information. Keep the original time and degree of certainty when summarising instead of turning a possibility into a proven result.
+Бұл жаңалықта не туралы айтылған?~О чём говорится в этой новости?~What is this news report about?
+Қалада жаңа кітапхана ашылғаны туралы хабарланған.~Сообщается об открытии новой библиотеки в городе.~It reports that a new library has opened in the city.
+Кітапхана қашан жұмысын бастайды екен?~Когда библиотека начнёт работать?~When is the library expected to begin operating?
+Мақаладағы мәлімет бойынша, келесі аптада бастайды.~По данным статьи, на следующей неделе.~According to the article, next week.
+Хабарламаның бастапқы дереккөзін тексерген дұрыс.~Стоит проверить первоначальный источник сообщения.~It is worth checking the original source of the report.
+Тақырып мәтіннің барлық мазмұнын қамтымайды.~Заголовок не передаёт всё содержание текста.~The headline does not convey the entire content of the text.
+
+B1|309|Қала және орта|Городская среда|The urban environment|Для предложения изменений используйте «...-уды ұсынар едім» и объясняйте, кому это поможет. «... үшін» выражает цель, а «...-у арқылы» — способ. Различайте желаемый результат и конкретное действие, которое к нему ведёт.|Use “...-уды ұсынар едім” to propose a change and explain who would benefit. “... үшін” expresses a purpose, while “...-у арқылы” describes a method. Distinguish the desired outcome from the concrete action that could produce it.
+Ауданыңызда нені өзгертер едіңіз?~Что бы вы изменили в своём районе?~What would you change in your neighbourhood?
+Жаяу жүргіншілерге арналған жолдарды көбейтуді ұсынар едім.~Я предложил бы увеличить количество пешеходных дорожек.~I would suggest adding more pedestrian routes.
+Бұл қандай пайда әкеледі деп ойлайсыз?~Какую пользу это принесёт, по вашему мнению?~What benefits do you think that would bring?
+Тұрғындар қысқа қашықтыққа көліксіз қатынай алады.~Жители смогут передвигаться на короткие расстояния без машины.~Residents would be able to make short journeys without a car.
+Қоғамдық кеңістіктерді жақсарту үшін тұрғындардың пікірін тыңдау қажет.~Для улучшения общественных пространств нужно выслушать мнение жителей.~Residents’ views should be heard when improving public spaces.
+Жасыл аумақтарды сақтай отырып, жаңа нысандар салуға болады.~Новые объекты можно строить, сохраняя зелёные зоны.~New facilities can be built while preserving green spaces.
+
+B1|310|Дәстүр және мәдениет|Традиции и культура|Traditions and culture|О традициях лучше говорить без чрезмерных обобщений: «кейбір отбасыларда», «жиі», «әдетте». Сочетание «... деп аталады» вводит название. Объясните не только действие, но и его значение для участников, не считая одну практику обязательной для всех.|Avoid sweeping generalisations about traditions by using кейбір отбасыларда, жиі and әдетте. “... деп аталады” introduces a name. Explain the meaning an activity has for its participants rather than assuming that one practice applies to everyone.
+Наурызда сіздің отбасыңыз не істейді?~Что делает ваша семья на Наурыз?~What does your family do for Nauryz?
+Әдетте туыстарымызбен кездесіп, бірге дастарқан жаямыз.~Обычно мы встречаемся с родственниками и вместе накрываем стол.~We usually meet our relatives and share a meal.
+Сіз үшін бұл мерекенің мәні неде?~В чём для вас смысл этого праздника?~What does this celebration mean to you?
+Мен үшін бұл — жаңару мен жақындарға көңіл бөлу уақыты.~Для меня это время обновления и внимания к близким.~For me, it is a time of renewal and caring for people close to me.
+Әр өңірде мерекелеу ерекшеліктері болуы мүмкін.~В разных регионах могут быть свои особенности празднования.~Different regions may celebrate in different ways.
+Дәстүрдің мәнін түсіну оның сыртқы көрінісін қайталаудан маңыздырақ.~Понимать смысл традиции важнее, чем просто повторять её внешние формы.~Understanding a tradition’s meaning matters more than simply repeating its outward form.
+
+B1|311|Оқиғаны баяндау|Рассказываем историю|Telling a story|В рассказе задайте фон, событие и результат. «...-ып жатқанда» описывает одновременное действие, а «кенеттен» отмечает неожиданный поворот. Меняйте связки осмысленно: последовательность и одновременность передают разные отношения между событиями.|A story needs a setting, an event and an outcome. “...-ып жатқанда” describes an action in progress when something else happens; кенеттен marks an unexpected turn. Choose connectors carefully because sequence and simultaneity are different relationships.
+Сапарыңызда күтпеген жағдай болды ма?~Случилось ли что-то неожиданное в вашей поездке?~Did anything unexpected happen during your trip?
+Вокзалға бара жатқанда, телефонымның үйде қалғанын байқадым.~По дороге на вокзал я заметил, что оставил телефон дома.~On my way to the station, I realised I had left my phone at home.
+Содан кейін не істедіңіз?~Что вы сделали потом?~What did you do next?
+Досыма басқа телефоннан хабарласып, көмек сұрадым.~Я позвонил другу с другого телефона и попросил помощи.~I called a friend from another phone and asked for help.
+Бақытыма қарай, пойызға уақытында үлгердім.~К счастью, я успел на поезд.~Fortunately, I caught the train in time.
+Осы оқиғадан кейін заттарымды алдын ала тексеретін болдым.~После этого случая я стал проверять вещи заранее.~After that incident, I started checking my belongings in advance.
+
+B1|312|Көзқарасты дәлелдеу|Защищаем свою точку зрения|Supporting your viewpoint|Связный аргумент состоит из тезиса, объяснения, примера и вывода. «Біріншіден» и «екіншіден» упорядочивают доводы, а «қорыта айтқанда» завершает рассуждение. Убедитесь, что пример действительно поддерживает тезис, а не просто связан с общей темой.|A coherent argument includes a claim, explanation, example and conclusion. Біріншіден and екіншіден organise reasons, while қорыта айтқанда introduces a conclusion. Check that your example actually supports the claim rather than merely sharing its topic.
+Неліктен кітапханаларды дамыту маңызды деп санайсыз?~Почему вы считаете важным развитие библиотек?~Why do you consider it important to develop libraries?
+Біріншіден, олар білімге тең қолжетімділік береді.~Во-первых, они обеспечивают равный доступ к знаниям.~First, they provide equal access to knowledge.
+Бұл ойды қандай мысалмен толықтыра аласыз?~Каким примером вы можете дополнить эту мысль?~What example could you give to support that point?
+Мысалы, тегін оқу залдары жеке жұмыс орны жоқ адамдарға көмектеседі.~Например, бесплатные читальные залы помогают людям без собственного рабочего места.~For example, free reading rooms help people who do not have a private place to study.
+Екіншіден, кітапхана жергілікті қауымдастықты біріктіреді.~Во-вторых, библиотека объединяет местное сообщество.~Second, a library brings the local community together.
+Қорыта айтқанда, бұл — тек кітап сақтайтын орын емес.~Подводя итог, это не просто место для хранения книг.~In conclusion, it is more than a place to keep books.
+
+B2|401|Күрделі дәлел|Строим сложный аргумент|Building a nuanced argument|В развёрнутом аргументе различайте исходное утверждение, допущение и предел применимости. «Бұл ... дегенді білдірмейді» ограничивает вывод; «осы тұрғыдан алғанда» задаёт перспективу. Признайте сильную сторону противоположной позиции прежде, чем объяснить собственное ограничение.|Distinguish a claim, its assumptions and the limits of its application. “Бұл ... дегенді білдірмейді” limits a conclusion; осы тұрғыдан алғанда establishes a perspective. Acknowledge the strongest part of an opposing view before explaining its limitations.
+Технология білім сапасын міндетті түрде арттырады деп айта аламыз ба?~Можем ли мы утверждать, что технологии обязательно повышают качество образования?~Can we say that technology necessarily improves the quality of education?
+Ол мүмкіндіктерді кеңейтеді, бірақ нәтиже оны қалай қолданатынымызға байланысты.~Они расширяют возможности, но результат зависит от того, как мы их используем.~It expands opportunities, but the outcome depends on how we use it.
+Демек, құралдың өзі жеткіліксіз ғой?~Значит, самого инструмента недостаточно?~So the tool alone is not enough?
+Иә, мазмұн мен әдістеме қатар дамымаса, күтілген әсер болмауы мүмкін.~Да, если содержание и методика не развиваются вместе, ожидаемого эффекта может не быть.~Yes. Without corresponding improvements in content and teaching methods, the expected effect may not occur.
+Бұл технологиядан бас тарту керек дегенді білдірмейді.~Это не означает, что нужно отказаться от технологий.~This does not mean that technology should be rejected.
+Осы тұрғыдан алғанда, бағалау өлшемдерін алдын ала белгілеу маңызды.~С этой точки зрения важно заранее определить критерии оценки.~From this perspective, it is important to define evaluation criteria in advance.
+
+B2|402|Болжам және күмән|Вероятность и сомнение|Probability and uncertainty|Степень уверенности передают мүмкін, ықтимал, шамасы и «... деуге негіз бар». Они не равны категорическому утверждению. В пересказе данных сохраняйте ограничения: отсутствие доказательства и доказательство отсутствия — разные вещи.|Мүмкін, ықтимал, шамасы and “... деуге негіз бар” express different degrees of certainty. They do not amount to a categorical claim. Preserve limitations when reporting evidence: lack of evidence is not the same as evidence of absence.
+Бұл өзгеріс сұраныстың артқанын көрсете ме?~Показывает ли это изменение рост спроса?~Does this change indicate an increase in demand?
+Мүмкін, бірақ бір айдың дерегімен нақты қорытынды жасау қиын.~Возможно, но по данным одного месяца трудно сделать определённый вывод.~Possibly, but it is difficult to draw a firm conclusion from one month of data.
+Тағы қандай түсіндірме болуы ықтимал?~Какое ещё объяснение вероятно?~What other explanation might be plausible?
+Маусымдық әсер болуы мүмкін екенін де ескеру керек.~Нужно учитывать и возможное сезонное влияние.~We should also consider the possibility of a seasonal effect.
+Қолда бар мәлімет бұл болжамды толық растауға жеткіліксіз.~Имеющихся сведений недостаточно, чтобы полностью подтвердить эту гипотезу.~The available information is insufficient to fully confirm this hypothesis.
+Әзірге мұны алдын ала тұжырым ретінде қарастырған дұрыс.~Пока это лучше рассматривать как предварительный вывод.~For now, it is best treated as a provisional conclusion.
+
+B2|403|Жанама сөз|Косвенная речь|Reported speech|В косвенной речи сообщение часто оформляется через деп и етістіктер айтты, хабарлады, түсіндірді. Передавайте смысл, сохраняя автора утверждения. При преобразовании прямой речи могут меняться местоимения и временная перспектива; не меняйте исходную степень уверенности.|Reported speech often uses деп with айтты, хабарлады or түсіндірді. Preserve who made the claim when paraphrasing. Pronouns and time perspective may change when moving from direct to reported speech, but the original degree of certainty should remain.
+Жетекші жоба туралы не айтты?~Что руководитель сказал о проекте?~What did the manager say about the project?
+Ол кестені қайта қарау қажет екенін айтты.~Он сказал, что график нужно пересмотреть.~The manager said that the schedule needed to be revised.
+Мерзімнің неге өзгеретінін түсіндірді ме?~Он объяснил, почему изменятся сроки?~Did the manager explain why the deadline would change?
+Иә, қосымша тексеруге уақыт керегін түсіндірді.~Да, он объяснил, что нужно время на дополнительную проверку.~Yes, the manager explained that extra checks required more time.
+Хатта қатысушыларға өзгеріс туралы алдын ала хабарланатыны жазылған.~В письме сказано, что участников заранее уведомят об изменении.~The letter states that participants will be informed of the change in advance.
+Автор бұл шешімнің түпкілікті емес екенін атап өтті.~Автор отметил, что это решение не окончательное.~The author noted that the decision was not final.
+
+B2|404|Ресми ұсыныс|Официальное предложение|A formal proposal|Предложение должно связывать проблему, план действий, ресурсы и критерий результата. Безличные и пассивные формы помогают сосредоточиться на процедуре: ұсынылады, қарастырылады. Однако не скрывайте ответственного там, где важны обязательства и сроки.|A proposal should connect a problem, an action plan, resources and a measure of success. Impersonal and passive forms such as ұсынылады and қарастырылады focus on procedure. Do not hide responsibility when commitments and deadlines matter.
+Ұсыныстың негізгі мақсаты қандай?~Какова основная цель предложения?~What is the main purpose of the proposal?
+Қызмет көрсету уақытын қысқарту үшін өтініштерді тіркеу тәртібін жаңарту ұсынылады.~Предлагается обновить порядок регистрации обращений, чтобы сократить время обслуживания.~We propose updating the enquiry registration process to reduce service times.
+Нәтижені қандай өлшеммен бағалаймыз?~По какому показателю мы оценим результат?~How will we measure the result?
+Орташа күту уақыты мен аяқталған өтініштер үлесін салыстырамыз.~Мы сравним среднее время ожидания и долю обработанных обращений.~We will compare average waiting time and the proportion of enquiries resolved.
+Сынақ кезеңі аяқталғаннан кейін тәсілді кеңейту мәселесі қарастырылады.~После завершения пилотного периода будет рассмотрен вопрос расширения подхода.~The approach may be expanded after the pilot period has been evaluated.
+Әр кезеңге жауапты маман мен нақты мерзім белгіленуі тиіс.~Для каждого этапа нужно определить ответственного специалиста и конкретный срок.~Each stage should have a designated specialist and a clear deadline.
+
+B2|405|Келіссөз|Переговоры|Negotiation|В переговорах различайте позицию и интерес, который за ней стоит. «... жағдайда» вводит условие уступки, «өз кезегінде» связывает встречное действие. Формулируйте договорённость так, чтобы стороны одинаково понимали объём, срок и критерии выполнения.|Distinguish a stated position from the interest behind it. “... жағдайда” introduces a condition for a concession, while өз кезегінде links a reciprocal action. State the scope, timing and completion criteria so both sides understand the agreement in the same way.
+Бастапқы мерзімді сақтай аласыздар ма?~Вы сможете сохранить первоначальный срок?~Can you meet the original deadline?
+Жұмыс көлемі өзгермеген жағдайда сақтай аламыз.~Мы сможем его сохранить при условии, что объём работы не изменится.~We can, provided that the scope of work remains unchanged.
+Ал қосымша бөлімді кейінірек тапсырсақ ше?~А если дополнительную часть сдадим позже?~What if we deliver the additional section later?
+Онда негізгі бөлікті уақытында аяқтауға келісеміз.~Тогда мы согласны завершить основную часть вовремя.~In that case, we agree to complete the main section on time.
+Өз кезегінде сіздер кері байланысты екі күн ішінде берулеріңіз қажет.~Со своей стороны вам нужно предоставить обратную связь в течение двух дней.~In return, you would need to provide feedback within two days.
+Келісілген шарттарды хатпен бекітіп алайық.~Давайте письменно зафиксируем согласованные условия.~Let’s confirm the agreed terms in writing.
+
+B2|406|Дерек және пікір|Факт и интерпретация|Fact and interpretation|В аналитическом чтении отдельно выделяйте наблюдение, интерпретацию и оценку. Число само по себе не объясняет причину изменения. Союзы сонымен қатар и соған қарамастан помогают сопоставить данные, но не заменяют доказательство причинной связи.|In analytical reading, separate observation, interpretation and evaluation. A number does not explain the cause of a change by itself. Connectors such as сонымен қатар and соған қарамастан help compare evidence but do not prove causation.
+Есепте келушілер саны артқаны көрсетілген.~В отчёте показано, что число посетителей выросло.~The report shows that visitor numbers increased.
+Бірақ бұл қызмет сапасының артқанын өздігінен дәлелдемейді.~Но само по себе это не доказывает повышения качества обслуживания.~But that alone does not prove that service quality improved.
+Ондай қорытынды үшін тағы қандай мәлімет керек?~Какие ещё сведения нужны для такого вывода?~What further information would that conclusion require?
+Келушілердің бағалауы мен қызмет нәтижелерін де қарастыру қажет.~Нужно также рассмотреть оценки посетителей и результаты обслуживания.~We also need visitor feedback and evidence of service outcomes.
+Мақаладағы дерек пен автордың түсіндірмесін ажыратайық.~Давайте отделим данные в статье от объяснения автора.~Let’s separate the article’s evidence from the author’s interpretation.
+Бір мезгілде болған екі өзгеріс міндетті түрде себеп пен салдар емес.~Два одновременных изменения не обязательно связаны как причина и следствие.~Two changes occurring together are not necessarily a cause and an effect.
+
+B2|407|Қоғамдық талқылау|Общественное обсуждение|Public discussion|В общественной дискуссии полезно представлять разные интересы без обесценивания участников. «Бір жағынан ... екінші жағынан» сопоставляет аспекты, а «ескерсек» вводит значимое условие. Заканчивайте не лозунгом, а понятным предложением следующего шага.|Represent different interests without dismissing the participants. “Бір жағынан ... екінші жағынан” balances aspects of an issue, and ескерсек introduces a relevant consideration. End with a practical next step rather than a slogan.
+Жаңа ережені талқылағанда кімдердің пікірін ескеруіміз керек?~Чьи мнения нужно учитывать при обсуждении нового правила?~Whose views should be considered when discussing the new rule?
+Оны күнделікті қолданатын адамдардың тәжірибесін алдымен тыңдаған жөн.~Прежде всего стоит выслушать опыт людей, которые будут применять его каждый день.~We should first hear from the people who will use it every day.
+Бірыңғай шешім табу мүмкін бе?~Можно ли найти единое решение?~Is it possible to find a common solution?
+Мүмкін, бірақ әр топқа әсерін бөлек бағалау қажет.~Возможно, но влияние на каждую группу нужно оценить отдельно.~Possibly, but the impact on each group needs separate assessment.
+Бір жағынан тәртіп керек, екінші жағынан қолжетімділікті шектемеу маңызды.~С одной стороны, нужен порядок; с другой — важно не ограничить доступность.~We need clear rules, but it is also important not to restrict access.
+Келесі қадам ретінде ашық кері байланыс кезеңін ұсынамын.~В качестве следующего шага я предлагаю период открытой обратной связи.~As a next step, I suggest a period for open feedback.
+
+B2|408|Мәтінді қорытындылау|Резюмируем текст|Summarising a text|Хорошее резюме сохраняет центральную мысль и логику, но исключает второстепенные детали. «Автордың негізгі тұжырымы» обозначает вывод автора, а не ваше мнение. Не добавляйте новых причин и оценок, которых в исходном тексте не было.|A good summary keeps the central claim and logic while removing secondary details. Автордың негізгі тұжырымы refers to the author’s conclusion, not your opinion. Do not add reasons or evaluations that were absent from the original text.
+Мәтіннің негізгі ойын бір сөйлеммен айта аласыз ба?~Вы можете передать основную мысль текста одним предложением?~Can you express the main idea of the text in one sentence?
+Автор ұзақ мерзімді нәтиже үшін тұрақты қолдау қажет екенін дәлелдейді.~Автор доказывает, что для долгосрочного результата нужна постоянная поддержка.~The author argues that lasting results require sustained support.
+Қай мәліметтерді қысқартуға болады?~Какие сведения можно сократить?~Which details can be left out?
+Негізгі дәлелге әсер етпейтін қосымша мысалдарды қысқартуға болады.~Можно сократить дополнительные примеры, не влияющие на основной аргумент.~Additional examples can be omitted if they do not affect the main argument.
+Қорытындыда автордың сақтықпен айтқан бағасын сақтау керек.~В резюме нужно сохранить осторожный характер авторской оценки.~The summary should retain the cautious nature of the author’s assessment.
+Бұл — бастапқы мәтіннің мазмұны, менің жеке пікірім емес.~Это содержание исходного текста, а не моё личное мнение.~This is a summary of the source text, not my personal opinion.
+
+B2|409|Пікірталас мәдениеті|Корректная дискуссия|Constructive debate|Уточняющий вопрос часто продуктивнее немедленного возражения. «... деп түсінсем бола ма?» проверяет понимание, «нақтылап айтсақ» сужает обсуждение. Критикуйте утверждение и основания, а не личность собеседника.|A clarifying question is often more productive than an immediate objection. “... деп түсінсем бола ма?” checks understanding, while нақтылап айтсақ narrows the discussion. Challenge the claim and its evidence rather than the person making it.
+Сіз бұл тәсіл барлық жағдайда тиімді деп отырсыз ба?~Вы утверждаете, что этот подход эффективен во всех случаях?~Are you saying that this approach works in every situation?
+Жоқ, мен тек бастапқы кезеңдегі қолданылуын айтып отырмын.~Нет, я говорю только о его применении на начальном этапе.~No, I am referring only to its use in the initial stage.
+Онда пікірлеріміздің айырмасы қолданылу аясына қатысты екен ғой?~Значит, наши мнения расходятся в вопросе области применения?~So our disagreement concerns the scope of its application?
+Иә, осы шектеуді нақты көрсетсек, ортақ тұжырымға келе аламыз.~Да, если ясно укажем это ограничение, мы сможем прийти к общему выводу.~Yes. If we state that limitation clearly, we can reach a shared conclusion.
+Қарсы уәжді айтпас бұрын, сіздің ойыңызды дұрыс түсінгенімді тексерейін.~Прежде чем возражать, я проверю, правильно ли понял вашу мысль.~Before responding, let me check that I understood your point correctly.
+Дәлелді талқылау жеке адамды бағалауға айналмауы тиіс.~Обсуждение аргумента не должно превращаться в оценку человека.~Discussing an argument should not turn into judging a person.
+
+B2|410|Жоба таныстыру|Презентация проекта|Presenting a project|Презентация связывает задачу, подход, результат и ограничения. «Назар аударсақ» направляет внимание, «атап өткен жөн» выделяет важную оговорку. Не путайте достигнутый результат с будущей целью: обозначайте их разными временными формами.|A presentation connects the problem, approach, outcome and limitations. Назар аударсақ directs attention, while атап өткен жөн introduces a significant qualification. Distinguish results already achieved from future goals through explicit time references and verb forms.
+Жобаңыз қандай мәселені шешуге бағытталған?~На решение какой проблемы направлен ваш проект?~What problem is your project designed to address?
+Біз ақпарат іздеуге кететін уақытты қысқартуды мақсат еттік.~Мы поставили цель сократить время поиска информации.~We aimed to reduce the time spent finding information.
+Сынақ кезеңінде қандай нәтиже алдыңыздар?~Какой результат вы получили на пилотном этапе?~What results did you obtain during the pilot?
+Қатысушылар негізгі тапсырмаларды бұрынғыдан жылдамырақ орындады.~Участники выполняли основные задания быстрее, чем раньше.~Participants completed the main tasks more quickly than before.
+Іріктеменің шағын болғанын атап өткен жөн.~Стоит отметить, что выборка была небольшой.~It is worth noting that the sample was small.
+Келесі кезеңде нәтижені кеңірек топта тексеруді жоспарлап отырмыз.~На следующем этапе мы планируем проверить результат на более широкой группе.~In the next phase, we plan to test the results with a larger group.
+
+C1|501|Астарлы мағына|Подтекст и имплицитный смысл|Implicit meaning and subtext|Подтекст выводится из контекста, интонации и отношений между участниками, а не из одной фразы. «Астарында ... жатыр» описывает скрытый смысл. Различайте убедительную интерпретацию и единственно возможный вывод; при недостатке контекста прямо обозначайте неопределённость.|Subtext depends on context, intonation and relationships, not on an isolated sentence. “Астарында ... жатыр” describes an underlying meaning. Distinguish a plausible interpretation from the only possible conclusion, and state uncertainty when context is insufficient.
+«Қызық ұсыныс екен» деген жауапты бірден келісім деп түсінуге бола ма?~Можно ли сразу считать ответ «Интересное предложение» согласием?~Can “That is an interesting proposal” automatically be taken as agreement?
+Жоқ, оның астарында қызығушылық та, сыпайы күмән да жатуы мүмкін.~Нет, за ним могут стоять и интерес, и вежливое сомнение.~No. It may convey either interest or polite doubt.
+Қай мағына басым екенін қалай анықтаймыз?~Как определить, какое значение преобладает?~How can we identify the more likely meaning?
+Алдыңғы әңгіме мен кейінгі әрекетке сүйеніп пайымдаған дұрыс.~Стоит судить по предыдущему разговору и последующим действиям.~It is best to consider the preceding conversation and subsequent actions.
+Жеке тіркесті контекстен бөліп алу автордың ұстанымын бұрмалауы ықтимал.~Изолирование выражения от контекста может исказить позицию автора.~Isolating a phrase from its context may distort the speaker’s position.
+Мұнда нақты келісімнен гөрі, талқылауды жалғастыру ниеті байқалады.~Здесь скорее заметно намерение продолжить обсуждение, чем определённое согласие.~This suggests a willingness to continue the discussion rather than definite agreement.
+
+C1|502|Академиялық ұстаным|Академическая аргументация|Academic argumentation|Академический стиль требует соразмерять утверждение с данными. «Осы зерттеу аясында» ограничивает область вывода, а «... деп пайымдауға болады» обозначает обоснованную, но не абсолютную интерпретацию. Причинное утверждение требует большего основания, чем описание наблюдаемой связи.|Academic writing calibrates claims to the available evidence. Осы зерттеу аясында limits a conclusion’s scope; “... деп пайымдауға болады” presents a reasoned interpretation rather than an absolute truth. A causal claim requires stronger support than an observed association.
+Бұл тұжырымды барлық топқа жалпылауға негіз бар ма?~Есть ли основания распространять этот вывод на все группы?~Is there a basis for generalising this conclusion to every group?
+Зерттеу ауқымы шектеулі болғандықтан, мұндай жалпылау әзірге орынсыз.~Поскольку масштаб исследования ограничен, такое обобщение пока неуместно.~Given the limited scope of the study, such a generalisation is not yet justified.
+Қорытындыны қалай дәлірек тұжырымдар едіңіз?~Как бы вы сформулировали вывод точнее?~How would you phrase the conclusion more precisely?
+Осы зерттеу аясында екі көрсеткіштің арасында байланыс байқалды деп айтқан дұрыс.~Корректнее сказать, что в рамках этого исследования наблюдалась связь двух показателей.~It would be more accurate to say that an association was observed within this study.
+Балама түсіндірмелер қарастырылмайынша, себепті байланыс туралы кесімді пікір айтуға болмайды.~Пока не рассмотрены альтернативные объяснения, нельзя категорично утверждать причинную связь.~A definitive causal claim is not warranted until alternative explanations have been considered.
+Бұл нәтиже бастапқы болжамды нақтылауға мүмкіндік береді, бірақ оны толық дәлелдемейді.~Этот результат позволяет уточнить исходную гипотезу, но не доказывает её полностью.~This finding helps refine the initial hypothesis but does not fully establish it.
+
+C1|503|Стиль және регистр|Стиль и регистр|Style and register|Регистр выбирают по адресату, цели и жанру. Одна и та же просьба в переписке с другом и в официальном обращении оформляется по-разному. Уместность не равна усложнённости: точная простая формулировка часто лучше тяжёлой канцелярской конструкции.|Register depends on the audience, purpose and genre. The same request takes different forms in a message to a friend and in a formal letter. Appropriateness does not mean complexity: a clear, simple sentence is often better than cumbersome official language.
+Бұл сөйлем ресми хатқа сай келе ме?~Подходит ли это предложение для официального письма?~Is this sentence appropriate for a formal letter?
+Мағынасы түсінікті, бірақ ауызекі реңкін бейтараптандырған дұрыс.~Смысл понятен, но разговорный оттенок лучше нейтрализовать.~The meaning is clear, but its conversational tone should be made more neutral.
+Өтінішті қалай өзгертер едіңіз?~Как бы вы изменили просьбу?~How would you revise the request?
+«Құжатты жібере салшы» дегеннің орнына «Құжатты жіберуіңізді сұраймын» деуге болады.~Вместо разговорного «Отправь-ка документ» можно написать «Прошу вас отправить документ».~Instead of a casual “Just send the document”, you could write “Please send the document”.
+Мәтінді күрделендірмей-ақ, сыпайылық пен нақтылықты сақтауға болады.~Вежливость и точность можно сохранить, не усложняя текст.~It is possible to remain polite and precise without complicating the text.
+Адресатқа сай емес регистр негізгі ойдың қабылдануына кедергі келтіруі мүмкін.~Регистр, не подходящий адресату, может помешать восприятию основной мысли.~A register that does not suit the reader can obstruct the main message.
+
+C1|504|Мәтіндерді салыстыру|Сопоставление источников|Synthesising sources|Синтез объединяет источники по вопросам, а не пересказывает каждый по очереди. Выделите совпадения, противоречия и разницу в основаниях. «Екі автор да» отмечает общее, «айырмашылығы ...» — различие; отсутствие прямого противоречия ещё не означает полного согласия.|A synthesis organises sources around issues instead of summarising each in turn. Identify agreements, contradictions and differences in supporting evidence. Екі автор да highlights common ground; айырмашылығы ... marks a difference. A lack of direct contradiction does not imply complete agreement.
+Екі мәтіндегі ұстанымдар бір-біріне қайшы ма?~Противоречат ли друг другу позиции двух текстов?~Do the positions in the two texts contradict each other?
+Толықтай қайшы емес: екі автор да мәселенің өзектілігін мойындайды.~Не полностью: оба автора признают актуальность проблемы.~Not entirely: both authors acknowledge the importance of the issue.
+Негізгі айырмашылық неде?~В чём основное различие?~What is the main difference?
+Бірі қысқа мерзімді шараларды, екіншісі құрылымдық өзгерістерді басым көреді.~Один отдаёт приоритет краткосрочным мерам, другой — структурным изменениям.~One prioritises short-term measures, while the other favours structural change.
+Дереккөздердің зерттеу кезеңдері әртүрлі болғанын да ескеру қажет.~Нужно также учитывать, что источники охватывают разные периоды исследования.~We must also account for the different periods covered by the sources.
+Ортақ қорытынды жасамас бұрын, олардың негізгі ұғымдарды қалай анықтайтынын салыстырайық.~Прежде чем делать общий вывод, сравним определения ключевых понятий.~Before reaching a shared conclusion, let’s compare how they define the key concepts.
+
+C1|505|Қарсы уәжді талдау|Работа с контраргументом|Addressing counterarguments|Сильный контраргумент следует представлять в его лучшей форме, а не упрощать ради удобного опровержения. Сначала объясните основание возражения, затем покажите, что именно оно меняет в вашем тезисе. Уступка может уточнить позицию, не уничтожая её.|Present a counterargument in its strongest form rather than simplifying it for an easy rebuttal. Explain its basis before assessing what it changes about your claim. A concession can refine your position without abandoning it.
+Қарсы тараптың ең салмақты уәжі қандай?~Каков наиболее весомый аргумент другой стороны?~What is the strongest argument on the other side?
+Олар ұсынылған шараның шағын ұйымдарға қосымша жүктеме түсіретінін атап өтеді.~Они отмечают, что предложенная мера создаст дополнительную нагрузку для небольших организаций.~They point out that the proposed measure would place an additional burden on small organisations.
+Бұл ескерту бастапқы ұсынысты жоққа шығара ма?~Опровергает ли это замечание первоначальное предложение?~Does that objection invalidate the original proposal?
+Толық жоққа шығармайды, бірақ кезеңдеп енгізу қажеттігін көрсетеді.~Не полностью, но указывает на необходимость поэтапного внедрения.~Not entirely, but it shows that implementation should be phased.
+Қарсы уәжді мойындау дәлелден бас тарту емес, оның шекарасын нақтылау болуы мүмкін.~Признание контраргумента может быть не отказом от тезиса, а уточнением его границ.~Acknowledging a counterargument can clarify a claim’s limits rather than abandon it.
+Ұсыныстың әлсіз тұсын жасырмай, оны азайтудың жолын көрсеткен дұрыс.~Лучше не скрывать слабую сторону предложения, а показать способ её уменьшить.~It is better to address a proposal’s weakness and explain how to reduce it than to conceal it.
+
+C1|506|Күрделі қорытынды|Точный вывод|Drawing a precise conclusion|Вывод должен отвечать на исходный вопрос и соответствовать силе доказательств. Не вводите в нём новое ключевое основание. «Осыны ескере отырып» связывает итог с рассуждением, а оговорка о границах применимости делает вывод точнее, не обязательно слабее.|A conclusion should answer the original question and match the strength of the evidence. Do not introduce a new central argument at the end. Осыны ескере отырып links the conclusion to the reasoning; a qualification can make a conclusion more precise rather than simply weaker.
+Қорытынды бастапқы сұраққа жауап бере ме?~Отвечает ли заключение на исходный вопрос?~Does the conclusion answer the original question?
+Ішінара жауап береді, бірақ негізгі шектеу анық көрсетілмеген.~Отчасти, но главное ограничение не обозначено ясно.~Partly, but the main limitation has not been stated clearly.
+Қай шектеуді қосу қажет?~Какое ограничение нужно добавить?~Which limitation should be added?
+Нәтиженің тек зерттелген жағдайларға қатысты екенін нақтылау керек.~Нужно уточнить, что результат относится только к изученным условиям.~It should be made clear that the finding applies only to the conditions studied.
+Осыны ескере отырып, ұсынысты шектеулі сынақтан кейін кеңейтуді орынды деп санаймыз.~С учётом этого мы считаем обоснованным расширение предложения после ограниченного пилотного испытания.~With this in mind, we consider expansion appropriate after a limited pilot.
+Қорытынды дәлелден кең болмауы тиіс.~Вывод не должен выходить за пределы доказательств.~The conclusion should not extend beyond the evidence.
+
+C1|507|Мағыналық дәлдік|Смысловая точность|Semantic precision|Близкие по смыслу слова не всегда взаимозаменяемы. Различайте возможность, необходимость и обязательство, а также частный результат и общее правило. При редактуре проверяйте, какое значение действительно несёт каждая модальная конструкция.|Near-synonyms are not always interchangeable. Distinguish possibility, necessity and obligation, as well as a particular finding and a general rule. During editing, check the precise meaning carried by each modal construction.
+«Қатыса алады» мен «қатысуға міндетті» бір мағына бере ме?~Означают ли «может участвовать» и «обязан участвовать» одно и то же?~Do “may participate” and “is required to participate” mean the same thing?
+Жоқ, біріншісі мүмкіндік не рұқсатты, екіншісі міндетті білдіреді.~Нет, первое выражает возможность или разрешение, второе — обязанность.~No. The first expresses ability or permission; the second expresses an obligation.
+Онда нұсқаулықта қайсысын қолдану керек?~Какую форму тогда нужно использовать в инструкции?~Which form should be used in the instructions, then?
+Талаптың нақты сипатына сәйкес келетінін таңдау қажет.~Нужно выбрать форму, соответствующую действительному характеру требования.~Choose the form that accurately reflects the nature of the requirement.
+Шарттың өзгеруі мүмкін деген сөз оның міндетті түрде өзгеретінін білдірмейді.~Возможность изменения условия не означает, что оно обязательно изменится.~Saying that a condition may change does not mean that it will certainly change.
+Нақтылық үшін екіұшты сөзді толық түсіндірмемен алмастырдым.~Для точности я заменил двусмысленное слово полным пояснением.~For clarity, I replaced the ambiguous word with a complete explanation.
+
+C1|508|Сараптамалық талқылау|Экспертное обсуждение|An expert discussion|В итоговом обсуждении соедините точное описание, синтез разных позиций, обоснованный вывод и открытые вопросы. Профессиональная уверенность совместима с признанием неопределённости. Завершите разговор указанием на то, какие данные или действия помогут продвинуться дальше.|In a final discussion, combine precise description, synthesis of different views, a supported conclusion and open questions. Professional confidence is compatible with acknowledging uncertainty. End by identifying what evidence or action would move the discussion forward.
+Бүгінгі талқылаудан қандай ортақ тұжырым шығаруға болады?~Какой общий вывод можно сделать из сегодняшнего обсуждения?~What shared conclusion can we draw from today’s discussion?
+Ұсыныстың әлеуеті бар, алайда оны іске асыру шарттары қосымша тексеруді қажет етеді.~У предложения есть потенциал, однако условия его реализации требуют дополнительной проверки.~The proposal has potential, but the conditions for implementation need further examination.
+Келесі кезеңдегі басымдық қандай болмақ?~Каков будет приоритет на следующем этапе?~What should be the priority in the next phase?
+Әртүрлі қатысушыларға әсерін салыстырып, бағалау өлшемдерін келісу керек.~Нужно сопоставить влияние на разных участников и согласовать критерии оценки.~We need to compare the effects on different participants and agree on evaluation criteria.
+Белгісіздікті ашық көрсету шешімнің негізділігін арттыра алады.~Открытое обозначение неопределённости может повысить обоснованность решения.~Being explicit about uncertainty can improve the quality of a decision.
+Қосымша дерек алынғаннан кейін қорытындыны қайта қарауға дайын болуымыз қажет.~Нужно быть готовыми пересмотреть вывод после получения дополнительных данных.~We should be ready to revisit the conclusion when further evidence becomes available.

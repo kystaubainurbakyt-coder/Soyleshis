@@ -1,0 +1,671 @@
+{
+  "fileKey": "XjZKx0htqVh3Ud1WHpQ1fY",
+  "createdNodeIds": [],
+  "mutatedNodeIds": [
+    "5:914",
+    "5:929",
+    "5:958",
+    "5:991",
+    "5:1018",
+    "5:1042",
+    "5:1066",
+    "5:1106",
+    "5:1091",
+    "5:1094",
+    "5:1097",
+    "5:1100",
+    "5:1103",
+    "5:1152",
+    "5:1133",
+    "5:1136",
+    "5:1139",
+    "5:1142",
+    "5:1145",
+    "5:1159",
+    "5:1168",
+    "5:1177",
+    "5:1198",
+    "5:1200",
+    "5:1203",
+    "5:1233",
+    "5:1235",
+    "5:1238",
+    "5:1237",
+    "5:1306",
+    "5:1288",
+    "5:1291",
+    "5:1294",
+    "5:1297",
+    "5:1300",
+    "5:1314",
+    "5:1324",
+    "5:1351",
+    "5:1333",
+    "5:1336",
+    "5:1339",
+    "5:1342",
+    "5:1345",
+    "5:1359",
+    "5:1369",
+    "5:1396",
+    "5:1378",
+    "5:1381",
+    "5:1384",
+    "5:1387",
+    "5:1390",
+    "5:1417",
+    "5:1420",
+    "5:1423",
+    "5:1426",
+    "5:1429",
+    "5:1433",
+    "5:1452",
+    "5:1455",
+    "5:1458",
+    "5:1461",
+    "5:1464",
+    "5:1503",
+    "5:1483",
+    "5:1486",
+    "5:1489",
+    "5:1492",
+    "5:1495"
+  ],
+  "removedNodeIds": [
+    "5:951"
+  ],
+  "screenCount": 21,
+  "invalidDestinations": [],
+  "mainFlow": [
+    {
+      "from": "Splash",
+      "to": "Login",
+      "pass": true
+    },
+    {
+      "from": "Login",
+      "to": "Home",
+      "pass": true
+    },
+    {
+      "from": "Home",
+      "to": "List",
+      "pass": true
+    },
+    {
+      "from": "List",
+      "to": "Detail",
+      "pass": true
+    },
+    {
+      "from": "Detail",
+      "to": "Completed",
+      "pass": true
+    },
+    {
+      "from": "Completed",
+      "to": "Profile",
+      "pass": true
+    }
+  ],
+  "links": {
+    "Splash": [
+      {
+        "source": "5:909",
+        "to": "Login",
+        "destination": "5:924"
+      }
+    ],
+    "Login": [
+      {
+        "source": "5:945",
+        "to": "Home",
+        "destination": "5:1085"
+      },
+      {
+        "source": "5:947",
+        "to": "Register",
+        "destination": "5:981"
+      },
+      {
+        "source": "5:949",
+        "to": "Onboarding1",
+        "destination": "5:1013"
+      }
+    ],
+    "LoginError": [
+      {
+        "source": "5:975",
+        "to": "Home",
+        "destination": "5:1085"
+      },
+      {
+        "source": "5:977",
+        "to": "Register",
+        "destination": "5:981"
+      },
+      {
+        "source": "5:979",
+        "to": "Onboarding1",
+        "destination": "5:1013"
+      }
+    ],
+    "Register": [
+      {
+        "source": "5:986",
+        "to": "Login",
+        "destination": "5:924"
+      },
+      {
+        "source": "5:1009",
+        "to": "Home",
+        "destination": "5:1085"
+      },
+      {
+        "source": "5:1011",
+        "to": "Login",
+        "destination": "5:924"
+      }
+    ],
+    "Onboarding1": [
+      {
+        "source": "5:1033",
+        "to": "Onboarding2",
+        "destination": "5:1037"
+      },
+      {
+        "source": "5:1035",
+        "to": "Login",
+        "destination": "5:924"
+      }
+    ],
+    "Onboarding2": [
+      {
+        "source": "5:1057",
+        "to": "Onboarding3",
+        "destination": "5:1061"
+      },
+      {
+        "source": "5:1059",
+        "to": "Login",
+        "destination": "5:924"
+      }
+    ],
+    "Onboarding3": [
+      {
+        "source": "5:1081",
+        "to": "Login",
+        "destination": "5:924"
+      },
+      {
+        "source": "5:1083",
+        "to": "Login",
+        "destination": "5:924"
+      }
+    ],
+    "Home": [
+      {
+        "source": "5:1123",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1094",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1097",
+        "to": "Search",
+        "destination": "5:1280"
+      },
+      {
+        "source": "5:1100",
+        "to": "Favorites",
+        "destination": "5:1409"
+      },
+      {
+        "source": "5:1103",
+        "to": "Profile",
+        "destination": "5:1475"
+      }
+    ],
+    "List": [
+      {
+        "source": "5:1149",
+        "to": "Search",
+        "destination": "5:1280"
+      },
+      {
+        "source": "5:1157",
+        "to": "SearchA2",
+        "destination": "5:1325"
+      },
+      {
+        "source": "5:1159",
+        "to": "Detail",
+        "destination": "5:1188"
+      },
+      {
+        "source": "5:1168",
+        "to": "Detail",
+        "destination": "5:1188"
+      },
+      {
+        "source": "5:1177",
+        "to": "Detail",
+        "destination": "5:1188"
+      },
+      {
+        "source": "5:1186",
+        "to": "Create",
+        "destination": "5:1541"
+      },
+      {
+        "source": "5:1133",
+        "to": "Home",
+        "destination": "5:1085"
+      },
+      {
+        "source": "5:1139",
+        "to": "Search",
+        "destination": "5:1280"
+      },
+      {
+        "source": "5:1142",
+        "to": "Favorites",
+        "destination": "5:1409"
+      },
+      {
+        "source": "5:1145",
+        "to": "Profile",
+        "destination": "5:1475"
+      }
+    ],
+    "Detail": [
+      {
+        "source": "5:1193",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1200",
+        "to": "DetailSaved",
+        "destination": "5:1223"
+      },
+      {
+        "source": "5:1203",
+        "to": "Edit",
+        "destination": "5:1575"
+      },
+      {
+        "source": "5:1219",
+        "to": "Completed",
+        "destination": "5:1258"
+      },
+      {
+        "source": "5:1221",
+        "to": "List",
+        "destination": "5:1125"
+      }
+    ],
+    "DetailSaved": [
+      {
+        "source": "5:1228",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1235",
+        "to": "Detail",
+        "destination": "5:1188"
+      },
+      {
+        "source": "5:1238",
+        "to": "Edit",
+        "destination": "5:1575"
+      },
+      {
+        "source": "5:1254",
+        "to": "Completed",
+        "destination": "5:1258"
+      },
+      {
+        "source": "5:1256",
+        "to": "List",
+        "destination": "5:1125"
+      }
+    ],
+    "Completed": [
+      {
+        "source": "5:1263",
+        "to": "Profile",
+        "destination": "5:1475"
+      },
+      {
+        "source": "5:1276",
+        "to": "Profile",
+        "destination": "5:1475"
+      },
+      {
+        "source": "5:1278",
+        "to": "List",
+        "destination": "5:1125"
+      }
+    ],
+    "Search": [
+      {
+        "source": "5:1303",
+        "to": "SearchEmpty",
+        "destination": "5:1370"
+      },
+      {
+        "source": "5:1307",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1309",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1311",
+        "to": "SearchA2",
+        "destination": "5:1325"
+      },
+      {
+        "source": "5:1314",
+        "to": "Detail",
+        "destination": "5:1188"
+      },
+      {
+        "source": "5:1323",
+        "to": "SearchEmpty",
+        "destination": "5:1370"
+      },
+      {
+        "source": "5:1288",
+        "to": "Home",
+        "destination": "5:1085"
+      },
+      {
+        "source": "5:1291",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1297",
+        "to": "Favorites",
+        "destination": "5:1409"
+      },
+      {
+        "source": "5:1300",
+        "to": "Profile",
+        "destination": "5:1475"
+      }
+    ],
+    "SearchA2": [
+      {
+        "source": "5:1348",
+        "to": "SearchEmpty",
+        "destination": "5:1370"
+      },
+      {
+        "source": "5:1352",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1354",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1359",
+        "to": "Detail",
+        "destination": "5:1188"
+      },
+      {
+        "source": "5:1368",
+        "to": "SearchEmpty",
+        "destination": "5:1370"
+      },
+      {
+        "source": "5:1333",
+        "to": "Home",
+        "destination": "5:1085"
+      },
+      {
+        "source": "5:1336",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1339",
+        "to": "Search",
+        "destination": "5:1280"
+      },
+      {
+        "source": "5:1342",
+        "to": "Favorites",
+        "destination": "5:1409"
+      },
+      {
+        "source": "5:1345",
+        "to": "Profile",
+        "destination": "5:1475"
+      }
+    ],
+    "SearchEmpty": [
+      {
+        "source": "5:1397",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1399",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1401",
+        "to": "SearchA2",
+        "destination": "5:1325"
+      },
+      {
+        "source": "5:1407",
+        "to": "Search",
+        "destination": "5:1280"
+      },
+      {
+        "source": "5:1378",
+        "to": "Home",
+        "destination": "5:1085"
+      },
+      {
+        "source": "5:1381",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1384",
+        "to": "Search",
+        "destination": "5:1280"
+      },
+      {
+        "source": "5:1387",
+        "to": "Favorites",
+        "destination": "5:1409"
+      },
+      {
+        "source": "5:1390",
+        "to": "Profile",
+        "destination": "5:1475"
+      }
+    ],
+    "Favorites": [
+      {
+        "source": "5:1433",
+        "to": "DetailSaved",
+        "destination": "5:1223"
+      },
+      {
+        "source": "5:1442",
+        "to": "FavoritesEmpty",
+        "destination": "5:1444"
+      },
+      {
+        "source": "5:1417",
+        "to": "Home",
+        "destination": "5:1085"
+      },
+      {
+        "source": "5:1420",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1423",
+        "to": "Search",
+        "destination": "5:1280"
+      },
+      {
+        "source": "5:1429",
+        "to": "Profile",
+        "destination": "5:1475"
+      }
+    ],
+    "FavoritesEmpty": [
+      {
+        "source": "5:1473",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1452",
+        "to": "Home",
+        "destination": "5:1085"
+      },
+      {
+        "source": "5:1455",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1458",
+        "to": "Search",
+        "destination": "5:1280"
+      },
+      {
+        "source": "5:1461",
+        "to": "Favorites",
+        "destination": "5:1409"
+      },
+      {
+        "source": "5:1464",
+        "to": "Profile",
+        "destination": "5:1475"
+      }
+    ],
+    "Profile": [
+      {
+        "source": "5:1504",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1507",
+        "to": "Favorites",
+        "destination": "5:1409"
+      },
+      {
+        "source": "5:1510",
+        "to": "Favorites",
+        "destination": "5:1409"
+      },
+      {
+        "source": "5:1512",
+        "to": "Settings",
+        "destination": "5:1516"
+      },
+      {
+        "source": "5:1514",
+        "to": "Login",
+        "destination": "5:924"
+      },
+      {
+        "source": "5:1483",
+        "to": "Home",
+        "destination": "5:1085"
+      },
+      {
+        "source": "5:1486",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1489",
+        "to": "Search",
+        "destination": "5:1280"
+      },
+      {
+        "source": "5:1492",
+        "to": "Favorites",
+        "destination": "5:1409"
+      }
+    ],
+    "Settings": [
+      {
+        "source": "5:1521",
+        "to": "Profile",
+        "destination": "5:1475"
+      },
+      {
+        "source": "5:1534",
+        "to": "State=On",
+        "destination": "2:89"
+      },
+      {
+        "source": "5:1536",
+        "to": "Profile",
+        "destination": "5:1475"
+      }
+    ],
+    "Create": [
+      {
+        "source": "5:1546",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1571",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1573",
+        "to": "List",
+        "destination": "5:1125"
+      }
+    ],
+    "Edit": [
+      {
+        "source": "5:1580",
+        "to": "List",
+        "destination": "5:1125"
+      },
+      {
+        "source": "5:1605",
+        "to": "Detail",
+        "destination": "5:1188"
+      },
+      {
+        "source": "5:1607",
+        "to": "Detail",
+        "destination": "5:1188"
+      }
+    ]
+  },
+  "overflow": []
+}

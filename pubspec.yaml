@@ -1,0 +1,57 @@
+name: soyle
+description: "SOYLE — қазақ тілін үйренуге арналған білім беру мобильді қосымшасы."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.11.0 <4.0.0"
+  flutter: ">=3.41.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  flutter_secure_storage: ^11.2.0
+  cryptography: ^2.9.0
+  url_launcher: ^6.3.3
+  pdf: ^3.13.1
+  printing: ^5.15.1
+  hive_ce: ^2.22.0
+  hive_ce_flutter: ^2.5.0
+  http: ^1.6.0
+  crypto: ^3.0.8
+  provider: ^6.1.5+1
+  mobile_scanner: ^7.4.2
+  web_socket_channel: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/NotoSans-Regular.ttf
+    - assets/fonts/NotoSerif.ttf
+  fonts:
+    - family: Manrope
+      fonts:
+        - asset: assets/fonts/Manrope.ttf
+    - family: NotoSans
+      fonts:
+        - asset: assets/fonts/NotoSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/NotoSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/NotoSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/NotoSans-ExtraBold.ttf
+          weight: 800
+    - family: NotoSerif
+      fonts:
+        - asset: assets/fonts/NotoSerif.ttf
+
+

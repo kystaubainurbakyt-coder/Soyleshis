@@ -1,0 +1,261 @@
+{
+  "fileKey": "XjZKx0htqVh3Ud1WHpQ1fY",
+  "step": "foundations-complete",
+  "pages": [
+    {
+      "id": "0:1",
+      "name": "01 · Design System"
+    },
+    {
+      "id": "2:2",
+      "name": "02 · Screens & Prototype"
+    }
+  ],
+  "components": [
+    {
+      "id": "2:49",
+      "name": "State=Default",
+      "parent": "SOYLE/Button"
+    },
+    {
+      "id": "2:51",
+      "name": "State=Pressed",
+      "parent": "SOYLE/Button"
+    },
+    {
+      "id": "2:53",
+      "name": "State=Disabled",
+      "parent": "SOYLE/Button"
+    },
+    {
+      "id": "2:55",
+      "name": "State=Secondary",
+      "parent": "SOYLE/Button"
+    },
+    {
+      "id": "2:58",
+      "name": "State=Empty",
+      "parent": "SOYLE/Input"
+    },
+    {
+      "id": "2:61",
+      "name": "State=Filled",
+      "parent": "SOYLE/Input"
+    },
+    {
+      "id": "2:64",
+      "name": "State=Error",
+      "parent": "SOYLE/Input"
+    },
+    {
+      "id": "2:69",
+      "name": "SOYLE/LessonCard",
+      "parent": "01 · Design System"
+    },
+    {
+      "id": "2:70",
+      "name": "SOYLE/BookIcon",
+      "parent": "01 · Design System"
+    },
+    {
+      "id": "2:80",
+      "name": "State=Default",
+      "parent": "SOYLE/NavItem"
+    },
+    {
+      "id": "2:83",
+      "name": "State=Selected",
+      "parent": "SOYLE/NavItem"
+    },
+    {
+      "id": "2:87",
+      "name": "State=Off",
+      "parent": "SOYLE/Switch"
+    },
+    {
+      "id": "2:89",
+      "name": "State=On",
+      "parent": "SOYLE/Switch"
+    }
+  ],
+  "variables": [
+    {
+      "id": "VariableID:2:5",
+      "name": "palette/primary"
+    },
+    {
+      "id": "VariableID:2:6",
+      "name": "color/primary"
+    },
+    {
+      "id": "VariableID:2:7",
+      "name": "palette/accent"
+    },
+    {
+      "id": "VariableID:2:8",
+      "name": "color/accent"
+    },
+    {
+      "id": "VariableID:2:9",
+      "name": "palette/background"
+    },
+    {
+      "id": "VariableID:2:10",
+      "name": "color/background"
+    },
+    {
+      "id": "VariableID:2:11",
+      "name": "palette/surface"
+    },
+    {
+      "id": "VariableID:2:12",
+      "name": "color/surface"
+    },
+    {
+      "id": "VariableID:2:13",
+      "name": "palette/textDark"
+    },
+    {
+      "id": "VariableID:2:14",
+      "name": "color/textDark"
+    },
+    {
+      "id": "VariableID:2:15",
+      "name": "palette/textMuted"
+    },
+    {
+      "id": "VariableID:2:16",
+      "name": "color/textMuted"
+    },
+    {
+      "id": "VariableID:2:17",
+      "name": "palette/border"
+    },
+    {
+      "id": "VariableID:2:18",
+      "name": "color/border"
+    },
+    {
+      "id": "VariableID:2:19",
+      "name": "palette/soft"
+    },
+    {
+      "id": "VariableID:2:20",
+      "name": "color/soft"
+    },
+    {
+      "id": "VariableID:2:21",
+      "name": "palette/onPrimary"
+    },
+    {
+      "id": "VariableID:2:22",
+      "name": "color/onPrimary"
+    },
+    {
+      "id": "VariableID:2:23",
+      "name": "palette/onDarkMuted"
+    },
+    {
+      "id": "VariableID:2:24",
+      "name": "color/onDarkMuted"
+    },
+    {
+      "id": "VariableID:2:25",
+      "name": "palette/goldLight"
+    },
+    {
+      "id": "VariableID:2:26",
+      "name": "color/goldLight"
+    },
+    {
+      "id": "VariableID:2:27",
+      "name": "palette/error"
+    },
+    {
+      "id": "VariableID:2:28",
+      "name": "color/error"
+    },
+    {
+      "id": "VariableID:2:29",
+      "name": "space/8"
+    },
+    {
+      "id": "VariableID:2:30",
+      "name": "space/12"
+    },
+    {
+      "id": "VariableID:2:31",
+      "name": "space/16"
+    },
+    {
+      "id": "VariableID:2:32",
+      "name": "space/20"
+    },
+    {
+      "id": "VariableID:2:33",
+      "name": "space/24"
+    },
+    {
+      "id": "VariableID:2:34",
+      "name": "space/28"
+    },
+    {
+      "id": "VariableID:2:35",
+      "name": "space/32"
+    },
+    {
+      "id": "VariableID:2:36",
+      "name": "space/40"
+    },
+    {
+      "id": "VariableID:2:37",
+      "name": "radius/12"
+    },
+    {
+      "id": "VariableID:2:38",
+      "name": "radius/16"
+    },
+    {
+      "id": "VariableID:2:39",
+      "name": "radius/20"
+    },
+    {
+      "id": "VariableID:2:40",
+      "name": "radius/22"
+    },
+    {
+      "id": "VariableID:2:41",
+      "name": "radius/28"
+    }
+  ],
+  "styles": [
+    {
+      "id": "S:83dc6008928adbafa1b93f93177c0e0653c3879b,",
+      "name": "SOYLE/Display"
+    },
+    {
+      "id": "S:ef4dbcc7ab32fdb2de16ce4810c72317950f24bf,",
+      "name": "SOYLE/Title"
+    },
+    {
+      "id": "S:7f0f375722e7be66e174e4230b9f0ac20778f8cb,",
+      "name": "SOYLE/Heading"
+    },
+    {
+      "id": "S:496ba56b79618ac9b9c88817d52646c550866841,",
+      "name": "SOYLE/Body"
+    },
+    {
+      "id": "S:8ad4cd8ba5ccf0dbd02327fef416741d9e125cbc,",
+      "name": "SOYLE/Caption"
+    },
+    {
+      "id": "S:d62cf2a8b9dba1ff402f6e01c6177d7cd581f763,",
+      "name": "SOYLE/Label"
+    },
+    {
+      "id": "S:9866378605fb43ff09ce8f8db4d7d58290d2b147,",
+      "name": "SOYLE/Eyebrow"
+    }
+  ]
+}
