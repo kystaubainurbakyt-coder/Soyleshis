@@ -8,6 +8,7 @@ import 'package:soyle/features/lessons/data/lesson_material.dart';
 import 'package:soyle/features/lessons/presentation/widgets/lesson_practice.dart';
 import 'package:soyle/shared/widgets/adaptive_content.dart';
 import 'package:soyle/shared/widgets/learning_ui.dart';
+import 'package:soyle/shared/widgets/learning_photo.dart';
 
 class LessonDetailScreen extends StatelessWidget {
   const LessonDetailScreen({super.key});
@@ -51,10 +52,18 @@ class LessonDetailScreen extends StatelessWidget {
                       state.favorites.add(lesson.id);
                     }
                   }),
-                  icon: Icon(
-                    saved
-                        ? Icons.bookmark_rounded
-                        : Icons.bookmark_border_rounded,
+                  icon: AnimatedSwitcher(
+                    duration: const Duration(milliseconds: 220),
+                    transitionBuilder: (child, animation) => ScaleTransition(
+                      scale: animation,
+                      child: child,
+                    ),
+                    child: Icon(
+                      key: ValueKey(saved),
+                      saved
+                          ? Icons.bookmark_rounded
+                          : Icons.bookmark_border_rounded,
+                    ),
                   ),
                 ),
                 const LanguageSwitch(),
@@ -83,15 +92,41 @@ class LessonDetailScreen extends StatelessWidget {
                       padding: const EdgeInsets.all(22),
                       children: [
                         Reveal(
-                          child: Container(
-                            padding: const EdgeInsets.all(24),
-                            decoration: BoxDecoration(
-                              color: AppColors.primary,
-                              borderRadius: BorderRadius.circular(22),
-                            ),
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.start,
-                              children: [
+                          child: ClipRRect(
+                            borderRadius: BorderRadius.circular(22),
+                            child: SizedBox(
+                              height: 210,
+                              child: Stack(
+                                fit: StackFit.expand,
+                                children: [
+                                  Hero(
+                                    tag: 'lesson-photo-${lesson.id}',
+                                    child: LearningPhoto(
+                                      lessonId: lesson.id,
+                                      width: double.infinity,
+                                      height: 210,
+                                      borderRadius: 0,
+                                    ),
+                                  ),
+                                  const DecoratedBox(
+                                    decoration: BoxDecoration(
+                                      gradient: LinearGradient(
+                                        begin: Alignment.centerLeft,
+                                        end: Alignment.centerRight,
+                                        colors: [
+                                          Color(0xE6102A48),
+                                          Color(0xAA102A48),
+                                          Color(0x33102A48),
+                                        ],
+                                      ),
+                                    ),
+                                  ),
+                                  Padding(
+                                    padding: const EdgeInsets.all(24),
+                                    child: Column(
+                                      crossAxisAlignment: CrossAxisAlignment.start,
+                                      mainAxisAlignment: MainAxisAlignment.end,
+                                      children: [
                                 Text(
                                   '${lesson.level}  ·  ${tr('minutes', {'n': lesson.minutes})}',
                                   style: const TextStyle(
@@ -121,7 +156,11 @@ class LessonDetailScreen extends StatelessWidget {
                                     ),
                                   ),
                                 ],
-                              ],
+                                      ],
+                                    ),
+                                  ),
+                                ],
+                              ),
                             ),
                           ),
                         ),

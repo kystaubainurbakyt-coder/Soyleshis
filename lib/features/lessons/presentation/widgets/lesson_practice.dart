@@ -228,12 +228,25 @@ class _LessonPracticeState extends State<LessonPractice>
               ),
               child: Column(
                 children: [
-                  Icon(
-                    percent >= 70
-                        ? Icons.verified_outlined
-                        : Icons.replay_rounded,
-                    size: 54,
-                    color: AppColors.primary,
+                  TweenAnimationBuilder<double>(
+                    tween: Tween(begin: .45, end: 1),
+                    duration: MediaQuery.disableAnimationsOf(context)
+                        ? Duration.zero
+                        : const Duration(milliseconds: 650),
+                    curve: Curves.elasticOut,
+                    builder: (context, scale, child) => Transform.scale(
+                      scale: scale,
+                      child: child,
+                    ),
+                    child: Icon(
+                      percent >= 70
+                          ? Icons.verified_rounded
+                          : Icons.replay_rounded,
+                      size: 58,
+                      color: percent >= 70
+                          ? const Color(0xFF286859)
+                          : AppColors.primary,
+                    ),
                   ),
                   const SizedBox(height: 18),
                   Text(

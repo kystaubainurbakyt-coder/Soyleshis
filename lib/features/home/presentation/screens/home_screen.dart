@@ -9,7 +9,7 @@ import 'package:soyle/shared/widgets/adaptive_content.dart';
 import 'package:soyle/shared/widgets/app_navigation.dart';
 import 'package:soyle/shared/widgets/brand.dart';
 import 'package:soyle/shared/widgets/learning_ui.dart';
-import 'package:soyle/shared/widgets/learning_artwork.dart';
+import 'package:soyle/shared/widgets/learning_photo.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -77,11 +77,47 @@ class HomeScreen extends StatelessWidget {
                           colors: [Color(0xFF173B64), Color(0xFF102A48)],
                         ),
                       ),
-                      child: CustomPaint(
-                        painter: const HeritagePattern(),
-                        child: Padding(
-                          padding: const EdgeInsets.all(26),
-                          child: Column(
+                      child: SizedBox(
+                        height: MediaQuery.sizeOf(context).width < 600
+                            ? 410
+                            : 360,
+                        child: Stack(
+                          fit: StackFit.expand,
+                          children: [
+                          TweenAnimationBuilder<double>(
+                            tween: Tween(begin: 1.06, end: 1),
+                            duration: MediaQuery.disableAnimationsOf(context)
+                                ? Duration.zero
+                                : const Duration(milliseconds: 850),
+                            curve: Curves.easeOutCubic,
+                            builder: (context, scale, _) => Transform.scale(
+                              scale: scale,
+                              child: Image.asset(
+                                LearningPhoto.assetFor(next.id),
+                                fit: BoxFit.cover,
+                                alignment: Alignment.centerRight,
+                              ),
+                            ),
+                          ),
+                          const DecoratedBox(
+                            decoration: BoxDecoration(
+                              gradient: LinearGradient(
+                                begin: Alignment.centerLeft,
+                                end: Alignment.centerRight,
+                                colors: [
+                                  Color(0xF2173B64),
+                                  Color(0xE6102A48),
+                                  Color(0x66102A48),
+                                ],
+                                stops: [0, .56, 1],
+                              ),
+                            ),
+                          ),
+                            CustomPaint(
+                              painter: const HeritagePattern(),
+                              child: Padding(
+                                padding: const EdgeInsets.all(26),
+                                child: Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
@@ -154,6 +190,9 @@ class HomeScreen extends StatelessWidget {
                               ),
                             ],
                           ),
+                              ),
+                            ),
+                          ],
                         ),
                       ),
                     ),
@@ -197,15 +236,11 @@ class HomeScreen extends StatelessWidget {
                                     children: [
                                       LevelMark(level, size: 42),
                                       const SizedBox(width: 7),
-                                      LearningArtwork(
-                                        style:
-                                            LearningArtworkStyle.values[index %
-                                                LearningArtworkStyle
-                                                    .values
-                                                    .length],
-                                        size: 66,
-                                        background: const Color(0xFFF0F4F8),
-                                        accent: LevelMark.color(level),
+                                      LearningPhoto(
+                                        lessonId: index,
+                                        width: 66,
+                                        height: 66,
+                                        borderRadius: 16,
                                       ),
                                       const SizedBox(width: 7),
                                       const Icon(
@@ -293,11 +328,11 @@ class HomeScreen extends StatelessWidget {
                               ),
                             ),
                             const Spacer(),
-                            LearningArtwork(
-                              style: LearningArtworkStyle.speaking,
-                              size: 72,
-                              background: Colors.white.withValues(alpha: .12),
-                              accent: const Color(0xFF315A7D),
+                            LearningPhoto(
+                              lessonId: dailyPractice.lesson.id,
+                              width: 72,
+                              height: 72,
+                              borderRadius: 16,
                             ),
                           ],
                         ),

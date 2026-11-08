@@ -34,6 +34,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assets/learning/
     - assets/fonts/NotoSans-Regular.ttf
     - assets/fonts/NotoSerif.ttf
   fonts:

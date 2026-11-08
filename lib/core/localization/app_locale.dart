@@ -153,7 +153,7 @@ const messages = <String, List<String>>{
   'home': ['Главная', 'Home'],
   'courses': ['Курсы', 'Courses'],
   'search': ['Поиск', 'Search'],
-  'saved': ['Избранное', 'Saved'],
+  'saved': ['Избранное', 'Favorites'],
   'profile': ['Профиль', 'Profile'],
   'settings': ['Настройки', 'Settings'],
   'login': ['Войти', 'Sign in'],
@@ -568,7 +568,7 @@ const messages = <String, List<String>>{
   ],
   'logout': ['Выйти из аккаунта', 'Sign out'],
   'completedLessons': ['Завершённые уроки', 'Completed lessons'],
-  'savedLessons': ['Сохранённые уроки', 'Saved lessons'],
+  'savedLessons': ['Избранное', 'Favorites'],
   'localAccount': [
     'Учебные результаты сохраняются на этом устройстве.',
     'Your learning progress is saved on this device.',

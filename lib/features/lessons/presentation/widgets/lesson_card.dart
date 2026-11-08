@@ -3,8 +3,7 @@ import 'package:soyle/core/localization/app_locale.dart';
 import 'package:soyle/core/state/app_state.dart';
 import 'package:soyle/core/theme/app_theme.dart';
 import 'package:soyle/features/lessons/domain/models/lesson.dart';
-import 'package:soyle/shared/widgets/learning_ui.dart';
-import 'package:soyle/shared/widgets/learning_artwork.dart';
+import 'package:soyle/shared/widgets/learning_photo.dart';
 
 class LessonCard extends StatelessWidget {
   const LessonCard({super.key, required this.lesson, required this.onTap});
@@ -25,12 +24,14 @@ class LessonCard extends StatelessWidget {
           padding: const EdgeInsets.all(18),
           child: Row(
             children: [
-              LearningArtwork(
-                style: LearningArtworkStyle
-                    .values[lesson.id % LearningArtworkStyle.values.length],
-                size: 66,
-                background: LevelMark.color(lesson.level).withValues(alpha: .1),
-                accent: LevelMark.color(lesson.level),
+              Hero(
+                tag: 'lesson-photo-${lesson.id}',
+                child: LearningPhoto(
+                  lessonId: lesson.id,
+                  width: 66,
+                  height: 66,
+                  borderRadius: 16,
+                ),
               ),
               const SizedBox(width: 14),
               Expanded(

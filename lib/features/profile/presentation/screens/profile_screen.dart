@@ -109,7 +109,7 @@ class ProfileScreen extends StatelessWidget {
                     ),
                     ListTile(
                       leading: const Icon(Icons.bookmark_border),
-                      title: Text(tr('savedLessons')),
+                      title: Text(tr('saved')),
                       trailing: Text('${state.favorites.length}'),
                       onTap: () =>
                           Navigator.pushNamed(context, AppRoutes.favorites),
