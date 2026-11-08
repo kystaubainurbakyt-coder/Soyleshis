@@ -12,7 +12,6 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  cupertino_icons: ^1.0.6
   flutter_secure_storage: ^11.2.0
   cryptography: ^2.9.0
   url_launcher: ^6.3.3

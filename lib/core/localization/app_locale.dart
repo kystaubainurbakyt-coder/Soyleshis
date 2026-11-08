@@ -568,7 +568,6 @@ const messages = <String, List<String>>{
   ],
   'logout': ['Выйти из аккаунта', 'Sign out'],
   'completedLessons': ['Завершённые уроки', 'Completed lessons'],
-  'savedLessons': ['Избранное', 'Favorites'],
   'localAccount': [
     'Учебные результаты сохраняются на этом устройстве.',
     'Your learning progress is saved on this device.',
